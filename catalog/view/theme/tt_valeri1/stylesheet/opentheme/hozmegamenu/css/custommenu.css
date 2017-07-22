@@ -43,11 +43,11 @@
     transition: all 300ms ease-in;
 }
 .pt_custommenu div.popup a.itemMenuName:hover{
-    color: #df7546;
+    color: #39b54a;
 }
 .pt_custommenu div.pt_menu .parentMenu a:hover, .pt_menu.act a ,.pt_custommenu div.pt_menu.act a{
-    color: #df7546;
-    border-color: #df7546;
+    color: #39b54a;
+    border-color: #39b54a;
 }
 .pt_custommenu .pt_menu > .parentMenu a:after {
     display: inline-block;
@@ -370,9 +370,8 @@ div.pt_menu .parentMenu a, .parentMenu .block-title {
     width: 50px;
     text-align: center;
 }
-.img-hozmegamenu img{    
-    width: 100%;
-    max-width: 880px;
+.img-hozmegamenu img{
+    display: none;;
 }
 @media (max-width: 991px){
     .ma-nav-mobile-container .navbar {    margin-bottom: 0px;}

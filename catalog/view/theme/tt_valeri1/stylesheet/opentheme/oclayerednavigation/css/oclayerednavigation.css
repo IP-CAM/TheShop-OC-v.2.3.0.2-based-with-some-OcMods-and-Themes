@@ -119,10 +119,10 @@
     padding-left: 0px;
 }
 .list-group-item a.a-filter.add-filter:hover{
-    color: #df7546;
+    color: #39b54a;
 }
 .ui-widget-header {
-    background-color: #df7546 !important;
+    background-color: #39b54a !important;
     border: none !important;
     outline: none;
     box-shadow: none;

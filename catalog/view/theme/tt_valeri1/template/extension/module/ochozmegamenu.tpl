@@ -15,10 +15,10 @@
 		</div>
 	</div>
 </div>
-<div class="nav-container visible-lg visible-md">
+<div class="nav-container visible-lg visible-md menu_links">
 	<div class="nav1">
 		<div class="nav2">
-			<div id="pt_custommenu" class="pt_custommenu">
+			<div id="pt_custommenu" class="pt_custommenu ">
 			<?php echo $hozmegamenu; ?>
 			</div>
 		</div>

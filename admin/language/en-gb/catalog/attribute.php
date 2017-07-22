@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']          = 'Характеристики';
+$_['heading_title']          = 'Attributes';
 
 // Text
-$_['text_success']           = 'Успішно: ви змінили характеристики!';
-$_['text_list']              = 'Список характеристик';
-$_['text_add']               = 'Добавити харахтеристику';
-$_['text_edit']              = 'редагувати характеристику';
+$_['text_success']           = 'Success: You have modified attributes!';
+$_['text_list']              = 'Attribute List';
+$_['text_add']               = 'Add Attribute';
+$_['text_edit']              = 'Edit Attribute';
 
 // Column
-$_['column_name']            = 'Назва характеристики';
-$_['column_attribute_group'] = 'Група харахтеристики';
-$_['column_sort_order']      = 'Порядок сортування';
-$_['column_action']          = 'Дія';
+$_['column_name']            = 'Attribute Name';
+$_['column_attribute_group'] = 'Attribute Group';
+$_['column_sort_order']      = 'Sort Order';
+$_['column_action']          = 'Action';
 
 // Entry
-$_['entry_name']             = 'Назва характеристики';
-$_['entry_attribute_group']  = 'Група харахтеристики';
-$_['entry_sort_order']       = 'Порядок сортування';
+$_['entry_name']             = 'Attribute Name';
+$_['entry_attribute_group']  = 'Attribute Group';
+$_['entry_sort_order']       = 'Sort Order';
 
 // Error
-$_['error_permission']       = 'Увага: у Вас немає дозволу редагувати цю характеристику!';
-$_['error_attribute_group']  = 'Потрібно вибрати групу характеристики!';
-$_['error_name']             = 'Довжина назви характеристики повинна бути від 3 до 64 символів!';
-$_['error_product']          = 'Увага: ця характеристика не може бути видалена, оскільки вона поєднана з %s продуктами!';
+$_['error_permission']       = 'Warning: You do not have permission to modify attributes!';
+$_['error_attribute_group']  = 'Attribute Group Required!';
+$_['error_name']             = 'Attribute Name must be between 3 and 64 characters!';
+$_['error_product']          = 'Warning: This attribute cannot be deleted as it is currently assigned to %s products!';

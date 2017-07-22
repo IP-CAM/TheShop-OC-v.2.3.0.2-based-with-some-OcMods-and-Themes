@@ -7,7 +7,7 @@
 	  	<h2><?php echo $newletter_lable; ?></h2>
 	  	<span class="sub-newletter"><?php echo $sub_newletter; ?></span>
 	  </div>
-	  <div class="box-content newleter-content">
+	  <!--<div class="box-content newleter-content">
 			<label class="hidden"><?php echo $newletter_lable; ?></label>
 		  	<div id="frm_subscribe">
 				<form name="subscribe" id="subscribe">
@@ -20,7 +20,7 @@
 				</form>
 			</div><!-- /#frm_subscribe -->
 		  <div id="notification_normal"></div>
-		</div><!-- /.box-content -->
+		</div><!-- /.box-content --> -->
  </div>
 </div>	
 <script type="text/javascript">

@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_home']          = 'Home';
-$_['text_wishlist']      = 'Wish List <span class=" count_wishlist "> %s </span>';
+$_['text_home']          = 'main';
+$_['text_wishlist']      = 'Favorites <span class=" count_wishlist "> %s </span>';
 $_['text_compare']       = 'Compare <span class=" count_compare "> %s </span>';
 $_['tex_telephone']      = '';
-$_['text_shopping_cart'] = 'Shopping Cart';
+$_['text_shopping_cart'] = 'Basket';
 $_['text_category']      = 'Categories';
 $_['text_account']       = 'My Account';
 $_['text_register']      = 'Register';

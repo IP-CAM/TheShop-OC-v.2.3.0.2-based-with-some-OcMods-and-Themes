@@ -119,7 +119,7 @@
 }
 /* css next-back */
 .owl-theme .owl-controls .owl-buttons div{
-	color: #df7546;
+	color: #39b54a;
     display: inline-block;
     zoom: 1;
     font-size: 0px;
@@ -128,7 +128,7 @@
     line-height: 50px;
     text-align: center;
     background-color: #fff;
-    border: 1px solid #df7546;
+    border: 1px solid #39b54a;
     position: relative;
     margin-top: -50px;
     text-indent: -999999;
@@ -164,7 +164,7 @@
     visibility: visible;
 
 }
-.owl-theme:hover .owl-controls .owl-buttons div:hover{background: #df7546;}
+.owl-theme:hover .owl-controls .owl-buttons div:hover{background: #39b54a;}
 .owl-theme .owl-controls .owl-buttons div:hover:before {
 	color: #fff;
     -webkit-transition: all 300ms ease-in;

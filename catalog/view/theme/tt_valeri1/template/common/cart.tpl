@@ -1,6 +1,11 @@
 <div id="cart" class="btn-group btn-block">
-  <button type="button" onclick="window.location.href='<?php echo $cart; ?>'" data-toggle="dropdown" data-loading-text="<?php echo $text_loading; ?>" class="btn btn-inverse btn-block btn-lg dropdown-toggle"><span id="cart-total"><span class="icon_bag_alt"></span><?php echo $text_items; ?></span></button>
-  <ul class="dropdown-menu pull-right">
+  <button id="cart_button" type="button" onclick="window.location.href='<?php echo $cart; ?>'" data-toggle="dropdown" data-loading-text="" class="btn btn-inverse btn-block btn-lg dropdown-toggle">
+      <span id="cart-total">
+          <span class="icon_bag_alt"></span>
+          <?php echo $text_items; ?>
+      </span>
+  </button>
+ <ul class="dropdown-menu pull-right">
     <?php if ($products || $vouchers) { ?>
     <li>
       <div class="div-sdiviped">

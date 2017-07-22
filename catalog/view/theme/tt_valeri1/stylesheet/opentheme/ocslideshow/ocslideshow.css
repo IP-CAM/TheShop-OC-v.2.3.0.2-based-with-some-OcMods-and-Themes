@@ -170,7 +170,7 @@ html[xmlns] .oc-banner7-container .slides {display: block;}
     text-transform: uppercase;
 }
 .banner7-readmore a:hover{
-    background: #df7546;
+    background: #39b54a;
     color: #fff;
 }
 .banner7-readmore {
@@ -208,7 +208,7 @@ html[xmlns] .oc-banner7-container .slides {display: block;}
 .slider-1 h1{
     font-size: 36px !important;
     font-size: 3.1vw;
-    color: #df7546;
+    color: #39b54a;
     margin-bottom: 0;
     line-height: 1;
 }
@@ -269,7 +269,7 @@ html[xmlns] .oc-banner7-container .slides {display: block;}
 }
 .slider-2 h2{
     font-size: 70px !important;
-    color: #df7546;
+    color: #39b54a;
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 5px;
@@ -334,7 +334,7 @@ a.nivo-nextNav{right: 5%;}
     overflow: hidden;
     width: 70px;
     height: 70px;
-    border:1px solid #df7546;
+    border:1px solid #39b54a;
     background: rgba(245, 245, 245, 0.25);
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;

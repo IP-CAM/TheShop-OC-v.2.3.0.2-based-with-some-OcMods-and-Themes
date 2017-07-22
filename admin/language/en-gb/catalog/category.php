@@ -1,46 +1,46 @@
 <?php
 // Heading
-$_['heading_title']          = 'Категорії';
+$_['heading_title']          = 'Categories';
 
 // Text
-$_['text_success']           = ' Успіх: Ви успішно редагували категорію!';
-$_['text_list']              = 'Список категорій';
-$_['text_add']               = 'Додати категорію';
-$_['text_edit']              = 'РЕдагувати категорію';
-$_['text_default']           = 'За замовчуванням';
+$_['text_success']           = 'Success: You have modified categories!';
+$_['text_list']              = 'Category List';
+$_['text_add']               = 'Add Category';
+$_['text_edit']              = 'Edit Category';
+$_['text_default']           = 'Default';
 
 // Column
-$_['column_name']            = 'Назва категорії';
-$_['column_sort_order']      = 'Порядок сортування';
-$_['column_action']          = 'Дія';
+$_['column_name']            = 'Category Name';
+$_['column_sort_order']      = 'Sort Order';
+$_['column_action']          = 'Action';
 
 // Entry
-$_['entry_name']             = 'Назва Категорії';
-$_['entry_description']      = 'Опис';
-$_['entry_meta_title'] 	     = 'мета-тег назва';
-$_['entry_meta_keyword']     = 'Мета-тег ключі';
-$_['entry_meta_description'] = 'Мета-тег опис';
+$_['entry_name']             = 'Category Name';
+$_['entry_description']      = 'Description';
+$_['entry_meta_title'] 	     = 'Meta Tag Title';
+$_['entry_meta_keyword']     = 'Meta Tag Keywords';
+$_['entry_meta_description'] = 'Meta Tag Description';
 $_['entry_keyword']          = 'SEO URL';
-$_['entry_parent']           = 'Батьківський';
-$_['entry_filter']           = 'Фільтри';
-$_['entry_store']            = 'Магазини';
-$_['entry_image']            = 'Зображення';
-$_['entry_top']              = 'Верх';
-$_['entry_column']           = 'Колонка';
-$_['entry_sort_order']       = 'Порядок сортування';
-$_['entry_status']           = 'Статус';
+$_['entry_parent']           = 'Parent';
+$_['entry_filter']           = 'Filters';
+$_['entry_store']            = 'Stores';
+$_['entry_image']            = 'Image';
+$_['entry_top']              = 'Top';
+$_['entry_column']           = 'Columns';
+$_['entry_sort_order']       = 'Sort Order';
+$_['entry_status']           = 'Status';
 $_['entry_layout']           = 'Layout Override';
 
 // Help
-$_['help_filter']            = '(Автозаповнення)';
-$_['help_keyword']           = ' Не використовуйте пробіли, замість них ставте символ - і впевніться, що SEO URL є глобально унікальною.';
-$_['help_top']               = ' Відобразити в верхньому навігаційному рядку. Працює тільки для батьківської категоріїю';
-$_['help_column']            = ' кількість колонок, використаних для трьох категорій внизу. Працює тільки для батьківських категорій.';
+$_['help_filter']            = '(Autocomplete)';
+$_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
+$_['help_top']               = 'Display in the top menu bar. Only works for the top parent categories.';
+$_['help_column']            = 'Number of columns to use for the bottom 3 categories. Only works for the top parent categories.';
 
 // Error
-$_['error_warning']          = 'Увага: перевірте форму на наявність помилок!';
-$_['error_permission']       = 'Увага: Ви на маєте доступу до редагування категорії!';
-$_['error_name']             = 'Назва категорії повинна містити від 2 до 255 символів!';
-$_['error_meta_title']       = 'Мета-Назва повинна містити від 3 до 255 символів!';
-$_['error_keyword']          = 'SEO URL використовується!';
-$_['error_parent']           = ' Батьківська категорія, яку Ви вибрали, є дочірньою категорією даної категорії!';
+$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
+$_['error_permission']       = 'Warning: You do not have permission to modify categories!';
+$_['error_name']             = 'Category Name must be between 2 and 255 characters!';
+$_['error_meta_title']       = 'Meta Title must be greater than 3 and less than 255 characters!';
+$_['error_keyword']          = 'SEO URL already in use!';
+$_['error_parent']           = 'The parent category you have chosen is a child of the current one!';

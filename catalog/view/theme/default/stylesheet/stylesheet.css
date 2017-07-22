@@ -80,7 +80,6 @@ div.required .control-label:before {
 /* top */
 #top {
 	background-color: #EEEEEE;
-	display: none;
 	border-bottom: 1px solid #e2e2e2;
 	padding: 4px 0px 3px 0;
 	margin: 0 0 20px 0;
@@ -747,12 +746,4 @@ h2.price {
 .btn-info:hover, .btn-info:active, .btn-info.active, .btn-info.disabled, .btn-info[disabled] {
     background-image: none;
     background-color: #df5c39;
-}
-
-.header_container{
-	width:90%;
-	margin-left: 5%;
-	box-sizing: border-box;
-	display: flex;
-	background: red !important;
 }

@@ -1,26 +1,26 @@
 <?php
 // Heading
-$_['heading_title']     = 'Завантаження';
+$_['heading_title']     = 'Downloads';
 
 // Text
-$_['text_success']      = 'Успіх: Ви успішно редагували завантаження!';
-$_['text_list']         = 'Список заванажень';
-$_['text_add']          = 'Додати завантаження';
-$_['text_edit']         = 'Редагувати завантаження';
-$_['text_upload']       = 'Ваш файл успішно завантажено!';
+$_['text_success']      = 'Success: You have modified downloads!';
+$_['text_list']         = 'Download List';
+$_['text_add']          = 'Add Download';
+$_['text_edit']         = 'Edit Download';
+$_['text_upload']       = 'Your file was successfully uploaded!';
 
 // Column
-$_['column_name']       = 'Назва завантаження';
-$_['column_date_added'] = 'Дата додавання';
-$_['column_action']     = 'Дія';
+$_['column_name']       = 'Download Name';
+$_['column_date_added'] = 'Date Added';
+$_['column_action']     = 'Action';
 
 // Entry
-$_['entry_name']        = 'Назва завантаження';
-$_['entry_filename']    = 'Назва файлу';
+$_['entry_name']        = 'Download Name';
+$_['entry_filename']    = 'Filename';
 $_['entry_mask']        = 'Mask';
 
 // Help
-$_['help_filename']     = 'Ви можете використати кнопку "завантажити", або скористатися FTP щоб завантажити файли в директорію загрузок і ввести деталі.';
+$_['help_filename']     = 'You can upload via the upload button or use FTP to upload to the download directory and enter the details below.';
 $_['help_mask']         = 'It is recommended that the filename and the mask are different to stop people trying to directly link to your downloads.';
 
 // Error

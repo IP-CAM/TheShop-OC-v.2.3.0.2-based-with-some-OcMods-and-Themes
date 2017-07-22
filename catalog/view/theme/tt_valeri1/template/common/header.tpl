@@ -26,6 +26,7 @@
 <script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href="catalog/view/theme/tt_valeri1/stylesheet/stylesheet.css" rel="stylesheet">
+
 <link href="catalog/view/theme/tt_valeri1/stylesheet/opentheme/ocslideshow/ocslideshow.css" rel="stylesheet" />
 <script src="catalog/view/javascript/opentheme/ocslideshow/jquery.nivo.slider.js" type="text/javascript"></script>
 <link href="catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/css/custommenu.css" rel="stylesheet" />
@@ -52,55 +53,65 @@
 <?php foreach ($analytics as $analytic) { ?>
 <?php echo $analytic; ?>
 <?php } ?>
+  <link href="catalog/view/theme/tt_valeri1/stylesheet/style.css" rel="stylesheet">
+
 </head>
 <body class="<?php echo $class; ?>">
 <div class="header-content">
   <nav id="top">
     <div class="container">
       <div class="container-ink">
-        <div class="row">
-          <div class="col-sm-6 col-xs-12">
-             <div class="top-contact">
-              <ul class="top-links-left">
-                <li>
-                  <a href="<?php echo $home; ?>"><?php echo $text_home; ?></a> 
-                </li>
-                <li>
-                  <a href="#"><?php echo $text_aboutus; ?></a>
-                </li>
-                <li>
-                  <a href="<?php echo $contact; ?>"><?php echo $text_contactus; ?></a> 
-                </li>
-                <li>
-                  <a href="http://www.plazathemes.com/"><?php echo $text_buytheme; ?></a> 
-                </li>
+        <div class="row row_header">
+          <div class="col-sm-6 col-xs-12 row_header">
+            <div class="dropdown top-account">
+              <a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><span class=""><?php echo $text_account; ?></span><i class="fa fa-angle-down "></i></a>
+              <ul class="dropdown-menu dropdown-menu-right">
+                <?php if ($logged) { ?>
+                <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
+                <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
+                <li><a href="<?php echo $transaction; ?>"><?php echo $text_transaction; ?></a></li>
+                <li><a href="<?php echo $download; ?>"><?php echo $text_download; ?></a></li>
+                <li><a href="<?php echo $logout; ?>"><?php echo $text_logout; ?></a></li>
+                <?php } else { ?>
+                <li><a href="<?php echo $register; ?>"><?php echo $text_register; ?></a></li>
+                <li><a href="<?php echo $login; ?>"><?php echo $text_login; ?></a></li>
+                <?php } ?>
               </ul>
             </div>
           </div>
           <div class="col-md-6 col-xs-12 col-sm-6">
-            <div class="top-links-right">
-              <?php echo $currency; ?>
-              <?php echo $language; ?>
-              <div class="dropdown top-account">
-                <a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><span class=""><?php echo $text_account; ?></span><i class="fa fa-angle-down "></i></a>
-                <ul class="dropdown-menu dropdown-menu-right">
-                  <?php if ($logged) { ?>
-                  <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
-                  <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
-                  <li><a href="<?php echo $transaction; ?>"><?php echo $text_transaction; ?></a></li>
-                  <li><a href="<?php echo $download; ?>"><?php echo $text_download; ?></a></li>
-                  <li><a href="<?php echo $logout; ?>"><?php echo $text_logout; ?></a></li>
-                  <?php } else { ?>
-                  <li><a href="<?php echo $register; ?>"><?php echo $text_register; ?></a></li>
-                  <li><a href="<?php echo $login; ?>"><?php echo $text_login; ?></a></li>
-                  <?php } ?>
-                </ul>
-              </div>
-              <div class="top-social-link">
+            <div class="header-panel-right">
+
+              <div id="header-wish" class="header-wish header_section">
+                  <a href="<?php echo $wishlist; ?>" id="wishlist-total-header" >
+                    <i class="fa fa-heart-o"></i>
+                    <span class="text-top-wishlist"><?php echo $text_wishlist; ?></span>
+                  </a>
+                </div>
+              <div class="top-cart-content header_section"><?php echo $cart; ?></div>
+              <div class="top-search-content header_section"><?php echo $search; ?></div>
+              <!--  <?php echo $currency; ?>
+              <?php echo $language; ?> -->
+              <!-- <div class="dropdown top-account">
+                 <a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><span class=""><?php echo $text_account; ?></span><i class="fa fa-angle-down "></i></a>
+                 <ul class="dropdown-menu dropdown-menu-right">
+                   <?php if ($logged) { ?>
+                   <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
+                   <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
+                   <li><a href="<?php echo $transaction; ?>"><?php echo $text_transaction; ?></a></li>
+                   <li><a href="<?php echo $download; ?>"><?php echo $text_download; ?></a></li>
+                   <li><a href="<?php echo $logout; ?>"><?php echo $text_logout; ?></a></li>
+                   <?php } else { ?>
+                   <li><a href="<?php echo $register; ?>"><?php echo $text_register; ?></a></li>
+                   <li><a href="<?php echo $login; ?>"><?php echo $text_login; ?></a></li>
+                   <?php } ?>
+                 </ul>
+               </div> -->
+              <!--<div class="top-social-link">
                 <a href="#"><span class="icon icon-top-social"><i class="fa fa-twitter"></i></span></a>
                 <a href="#"><span class="icon icon-top-social"><i class="fa fa-facebook"></i></span></a>
                 <a href="#"><span class="icon icon-top-social"><i class="fa fa-envelope"></i></span></a>
-              </div>
+              </div>-->
             </div>
           </div>
         </div>
@@ -109,7 +120,7 @@
   </nav>
   <header class="header">
     <div class="container">
-      <div class="row">
+      <div class="row logo-row">
         <div class="col-md-3 col-sm-6 col-xs-6 left-content-top">
           <div id="logo">
             <?php if ($logo) { ?>
@@ -119,43 +130,22 @@
             <?php } ?>
           </div>
         </div>
-        <div class="col-md-9 col-sm-6 col-xs-6">
+        <!--<div class="col-md-9 col-sm-6 col-xs-6">
           <div class="button-link-top">
-            <div class="content-left">
-              <div class="top-wishlist">
-                <a href="<?php echo $wishlist; ?>" id="wishlist-total-header" >
-                  <i class="fa fa-heart-o"></i>
-                  <span class="text-top-wishlist"><?php echo $text_wishlist; ?></span>
-                </a>
-              </div>
-              <div class="top-compare">
-                <a href="<?php echo $compare; ?>" id="compare-total-header">
-                  <i class="fa fa-refresh"></i>
-                  <span class="text-top-compare"><?php echo $text_compare; ?></span>
-                </a>
-              </div>
-            </div>
-            <div class="content-right">
-              <div>
-                <a href="<?php echo $contact; ?>"><?php echo $tex_telephone; ?></a>
-                <i class="fa fa-phone"></i>
-                <span class="phone-number"><?php echo $telephone; ?></span>
-              </div>
-            </div>
+
+
           </div>
-        </div>
+        </div>-->
       </div>
     </div>
   </header>
-  <div class="top-menu-content">
-    <div class="container">
+  <div class="top-menu-content main_menu">
+    <div class="container ">
       <div class="row">
         <div class="col-md-12">
           <div class="quick-access">
             <?php echo $hozmenu1; ?>
             
-            <div class="top-cart-content"><?php echo $cart; ?></div>
-            <div class="top-search-content"><?php echo $search; ?></div>
           </div>
         </div>
       </div>
