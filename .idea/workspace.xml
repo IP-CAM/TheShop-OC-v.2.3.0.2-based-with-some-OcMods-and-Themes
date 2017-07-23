@@ -2,224 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fce8ae2-9597-49a3-93a7-e8637cb3f4a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/image/baxConf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/image/boxDel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/image/boxMon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/image/fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/image/inst.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/image/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/image/social.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/image/vk.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/custome_styles/header.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/0d4fa2551-100x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/1-100x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/_1_-100x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/01_home1_02-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/01_home1_05-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/01_home1_08-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/01_home1_10-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/01_home1_13-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/02_home2_01-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/02_home2_02-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/02_home2_04-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/02_home2_05-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/02_home2_06-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/02_home2_07-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/04_home4_01-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/04_home4_02-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/04_home4_04-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/04_home4_05-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/images/06_home6_06-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/img-block/1-100x100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_accessories/4-720x500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_accessories/9-720x500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_hair/1-720x500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_hair/10-720x500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_hair/11-720x500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_hair/13-720x500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_hair/16-720x1000.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_hair/3-720x500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_hair/5-720x500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_hair/7-720x500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/cache/catalog/demo/product/image_product_hair/8-720x500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/catalog/0d4fa2551.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/catalog/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/image/catalog/_1_.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.language.1500458931" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.order_status.1.1500458952" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/system/storage/cache/cache.store.1500458952" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/image/icon-cart.png" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/image/icon-cart.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/cache/catalog/logo-100x100.png" afterPath="$PROJECT_DIR$/image/cache/catalog/logo-100x100.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/catalog/logo.png" afterPath="$PROJECT_DIR$/image/catalog/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config.php" afterPath="$PROJECT_DIR$/admin/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/controller/extension/module/ocfeatureslider.php" afterPath="$PROJECT_DIR$/admin/controller/extension/module/ocfeatureslider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/controller/extension/module/octabproductslider.php" afterPath="$PROJECT_DIR$/admin/controller/extension/module/octabproductslider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/en-gb/catalog/attribute.php" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/attribute.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/en-gb/catalog/attribute_group.php" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/attribute_group.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/en-gb/catalog/category.php" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/en-gb/catalog/download.php" afterPath="$PROJECT_DIR$/admin/language/en-gb/catalog/download.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/en-gb/extension/module/installtemp.php" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/installtemp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/en-gb/extension/module/occountdown.php" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/occountdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/en-gb/extension/module/ocfeatureslider.php" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/ocfeatureslider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/en-gb/extension/module/octabproductslider.php" afterPath="$PROJECT_DIR$/admin/language/en-gb/extension/module/octabproductslider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/view/javascript/jquery/css/jquery-ui.css" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/css/jquery-ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/view/javascript/jquery/jquery-ui.js" afterPath="$PROJECT_DIR$/admin/view/javascript/jquery/jquery-ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/view/template/extension/module/ocfeatureslider.tpl" afterPath="$PROJECT_DIR$/admin/view/template/extension/module/ocfeatureslider.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/view/template/extension/module/ocslideshow/ocslideshow.tpl" afterPath="$PROJECT_DIR$/admin/view/template/extension/module/ocslideshow/ocslideshow.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/view/template/extension/module/octabproductslider.tpl" afterPath="$PROJECT_DIR$/admin/view/template/extension/module/octabproductslider.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/controller/extension/module/occountdown.php" afterPath="$PROJECT_DIR$/catalog/controller/extension/module/occountdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/controller/extension/module/ocfeatureslider.php" afterPath="$PROJECT_DIR$/catalog/controller/extension/module/ocfeatureslider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/controller/extension/module/ocslideshow.php" afterPath="$PROJECT_DIR$/catalog/controller/extension/module/ocslideshow.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/controller/extension/module/octabproductslider.php" afterPath="$PROJECT_DIR$/catalog/controller/extension/module/octabproductslider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/account/account.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/account/account.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/account/wishlist.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/account/wishlist.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/checkout/cart.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/checkout/cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/common/cart.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/common/cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/common/footer.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/common/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/common/header.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/common/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/en-gb.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/en-gb.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/extension/module/occountdown.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/extension/module/occountdown.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/extension/module/ocfeatureslider.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/extension/module/ocfeatureslider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/extension/module/ochozmegamenu.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/extension/module/ochozmegamenu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/extension/module/octabproductslider.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/extension/module/octabproductslider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/model/hozmegamenu/menu.php" afterPath="$PROJECT_DIR$/catalog/model/hozmegamenu/menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/model/ocslideshow/slide.php" afterPath="$PROJECT_DIR$/catalog/model/ocslideshow/slide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery.countdown.js" afterPath="$PROJECT_DIR$/catalog/view/javascript/jquery.countdown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery.plugin.js" afterPath="$PROJECT_DIR$/catalog/view/javascript/jquery.plugin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/css/jquery-ui.css" afterPath="$PROJECT_DIR$/catalog/view/javascript/jquery/css/jquery-ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css" afterPath="$PROJECT_DIR$/catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/elevatezoom/jquery.elevatezoom.js" afterPath="$PROJECT_DIR$/catalog/view/javascript/jquery/elevatezoom/jquery.elevatezoom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/javascript/jquery/jquery-ui.js" afterPath="$PROJECT_DIR$/catalog/view/javascript/jquery/jquery-ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/javascript/opentheme/jquery.cookie.js" afterPath="$PROJECT_DIR$/catalog/view/javascript/opentheme/jquery.cookie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/opentheme/hozmegamenu/css/custommenu.css" afterPath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/opentheme/hozmegamenu/css/custommenu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" afterPath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css" afterPath="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/common/hozmenu1.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/common/hozmenu1.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/extension/module/occountdown.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/extension/module/occountdown.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/extension/module/ocfeatureslider.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/extension/module/ocfeatureslider.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/default/template/extension/module/ochozmegamenu.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/default/template/extension/module/ochozmegamenu.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/css/owl.carousel.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/css/owl.carousel.js" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/css/owl.carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/css/owl.theme.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/css/owl.theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/css/owl.transitions.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/css/owl.transitions.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/css/custommenu.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/css/custommenu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/ocslideshow/ocslideshow.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/ocslideshow/ocslideshow.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/producttab.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/producttab.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/stylesheet.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/checkout/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/checkout/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/checkout/checkout.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/checkout/checkout.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/currency.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/currency.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/footer.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/footer.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/language.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/language.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/search.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/search.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/newslettersubscribe.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/newslettersubscribe.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/ocfeatureslider.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/ocfeatureslider.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/ochozmegamenu.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/ochozmegamenu.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/css/owl.carousel.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/css/owl.carousel.js" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/css/owl.carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/css/owl.theme.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/css/owl.theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/css/owl.transitions.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/css/owl.transitions.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/hozmegamenu/css/custommenu.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/hozmegamenu/css/custommenu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/checkout/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/checkout/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/checkout/checkout.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/checkout/checkout.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/common/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/common/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/common/currency.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/common/currency.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/common/language.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/common/language.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/extension/module/ocfeatureslider.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/extension/module/ocfeatureslider.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/extension/module/ochozmegamenu.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/extension/module/ochozmegamenu.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/css/owl.carousel.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/css/owl.carousel.js" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/css/owl.carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/css/owl.theme.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/css/owl.theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/css/owl.transitions.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/css/owl.transitions.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/hozmegamenu/css/custommenu.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/hozmegamenu/css/custommenu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/checkout/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/checkout/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/checkout/checkout.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/checkout/checkout.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/common/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/common/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/common/currency.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/common/currency.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/common/language.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/common/language.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/extension/module/ocfeatureslider.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/extension/module/ocfeatureslider.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/extension/module/ochozmegamenu.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/extension/module/ochozmegamenu.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/css/owl.carousel.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/css/owl.carousel.js" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/css/owl.carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/css/owl.theme.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/css/owl.theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/css/owl.transitions.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/css/owl.transitions.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/hozmegamenu/css/custommenu.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/hozmegamenu/css/custommenu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/checkout/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/checkout/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/checkout/checkout.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/checkout/checkout.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/common/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/common/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/common/currency.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/common/currency.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/common/language.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/common/language.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/extension/module/occountdown.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/extension/module/occountdown.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/extension/module/ocfeatureslider.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/extension/module/ocfeatureslider.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/extension/module/ochozmegamenu.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri4/template/extension/module/ochozmegamenu.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/css/owl.carousel.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/css/owl.carousel.js" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/css/owl.carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/css/owl.theme.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/css/owl.theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/css/owl.transitions.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/css/owl.transitions.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/hozmegamenu/css/custommenu.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/hozmegamenu/css/custommenu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/checkout/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/checkout/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/checkout/checkout.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/checkout/checkout.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/common/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/common/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/common/currency.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/common/currency.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/common/language.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/common/language.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/extension/module/ocfeatureslider.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/extension/module/ocfeatureslider.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/extension/module/ochozmegamenu.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri5/template/extension/module/ochozmegamenu.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/css/owl.carousel.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/css/owl.carousel.js" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/css/owl.carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/css/owl.theme.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/css/owl.theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/css/owl.transitions.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/css/owl.transitions.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/hozmegamenu/css/custommenu.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/hozmegamenu/css/custommenu.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/checkout/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/checkout/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/checkout/checkout.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/checkout/checkout.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/common/cart.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/common/cart.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/common/currency.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/common/currency.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/common/language.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/common/language.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/extension/module/ocfeatureslider.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/extension/module/ocfeatureslider.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/extension/module/ochozmegamenu.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri6/template/extension/module/ochozmegamenu.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/oc_valeri.sql" afterPath="$PROJECT_DIR$/database/oc_valeri.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/install/opencart.sql" afterPath="$PROJECT_DIR$/install/opencart.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/logs/error.log" afterPath="$PROJECT_DIR$/system/storage/logs/error.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/logs/ocmod.log" afterPath="$PROJECT_DIR$/system/storage/logs/ocmod.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/admin/controller/catalog/product.php" afterPath="$PROJECT_DIR$/system/storage/modification/admin/controller/catalog/product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/admin/controller/common/column_left.php" afterPath="$PROJECT_DIR$/system/storage/modification/admin/controller/common/column_left.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/admin/controller/common/header.php" afterPath="$PROJECT_DIR$/system/storage/modification/admin/controller/common/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/admin/controller/design/layout.php" afterPath="$PROJECT_DIR$/system/storage/modification/admin/controller/design/layout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/admin/controller/extension/theme/theme_default.php" afterPath="$PROJECT_DIR$/system/storage/modification/admin/controller/extension/theme/theme_default.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/admin/language/en-gb/design/layout.php" afterPath="$PROJECT_DIR$/system/storage/modification/admin/language/en-gb/design/layout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/admin/model/catalog/product.php" afterPath="$PROJECT_DIR$/system/storage/modification/admin/model/catalog/product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/admin/model/localisation/language.php" afterPath="$PROJECT_DIR$/system/storage/modification/admin/model/localisation/language.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/admin/view/template/catalog/product_form.tpl" afterPath="$PROJECT_DIR$/system/storage/modification/admin/view/template/catalog/product_form.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/admin/view/template/extension/theme/theme_default.tpl" afterPath="$PROJECT_DIR$/system/storage/modification/admin/view/template/extension/theme/theme_default.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/controller/checkout/cart.php" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/controller/checkout/cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/controller/common/footer.php" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/controller/common/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/controller/common/header.php" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/controller/common/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/controller/common/home.php" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/controller/common/home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/controller/product/category.php" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/controller/product/category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/controller/product/product.php" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/controller/product/product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/controller/product/search.php" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/controller/product/search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/controller/product/special.php" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/controller/product/special.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/language/en-gb/checkout/cart.php" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/language/en-gb/checkout/cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/model/catalog/product.php" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/model/catalog/product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/catalog/view/theme/default/template/common/footer.tpl" afterPath="$PROJECT_DIR$/system/storage/modification/catalog/view/theme/default/template/common/footer.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/system/engine/action.php" afterPath="$PROJECT_DIR$/system/storage/modification/system/engine/action.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/system/engine/loader.php" afterPath="$PROJECT_DIR$/system/storage/modification/system/engine/loader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/system/library/config.php" afterPath="$PROJECT_DIR$/system/storage/modification/system/library/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/system/library/language.php" afterPath="$PROJECT_DIR$/system/storage/modification/system/library/language.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/system/library/template/php.php" afterPath="$PROJECT_DIR$/system/storage/modification/system/library/template/php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/modification/system/library/template/tiwg.php" afterPath="$PROJECT_DIR$/system/storage/modification/system/library/template/tiwg.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -231,24 +21,33 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="145" column="33" lean-forward="true" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="33" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#5938#6011#0#HTML" expanded="false" />
-                <element signature="e#6026#7178#0#HTML" expanded="false" />
-                <element signature="e#7193#7564#0#HTML" expanded="false" />
-                <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="1377">
+              <caret line="81" column="50" lean-forward="false" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -256,8 +55,8 @@
       <file leaf-file-name="custommenu.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/css/custommenu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="376" column="28" lean-forward="false" selection-start-line="376" selection-start-column="28" selection-end-line="376" selection-end-column="28" />
+            <state relative-caret-position="765">
+              <caret line="45" column="19" lean-forward="false" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -266,18 +65,18 @@
       <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="708" column="19" lean-forward="false" selection-start-line="708" selection-start-column="19" selection-end-line="708" selection-end-column="19" />
+            <state relative-caret-position="17">
+              <caret line="2881" column="11" lean-forward="false" selection-start-line="2881" selection-start-column="11" selection-end-line="2881" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/search.tpl">
+      <file leaf-file-name="carousel.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/carousel.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="289">
+              <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -286,8 +85,18 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="370" column="22" lean-forward="false" selection-start-line="370" selection-start-column="22" selection-end-line="370" selection-end-column="22" />
+            <state relative-caret-position="493">
+              <caret line="523" column="22" lean-forward="false" selection-start-line="523" selection-start-column="22" selection-end-line="523" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/footer.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="121" column="21" lean-forward="true" selection-start-line="121" selection-start-column="21" selection-end-line="121" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -317,11 +126,15 @@
       <find>cart_button</find>
       <find>img-hozmegamenu</find>
       <find>egamenu</find>
-      <find>header-wish</find>
       <find>nav-container</find>
+      <find>header-wish</find>
+      <find>#39b54a</find>
+      <find>**************</find>
+      <find>#39b54a;</find>
     </findStrings>
     <replaceStrings>
       <replace>#39b54a</replace>
+      <replace>#39b54a;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\stylesheet\opentheme</dir>
@@ -352,12 +165,10 @@
         <option value="$PROJECT_DIR$/catalog/view/theme/default/template/common/header.tpl" />
         <option value="$PROJECT_DIR$/catalog/view/theme/default/stylesheet/stylesheet.css" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/affiliate/login.php" />
-        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/newslettersubscribe.tpl" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/css/owl.carousel.css" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/ocslideshow/ocslideshow.css" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/producttab.css" />
-        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/footer.tpl" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/common/header.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/en-gb.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/account/account.php" />
@@ -370,10 +181,13 @@
         <option value="$PROJECT_DIR$/catalog/view/javascript/jquery/elevatezoom/jquery.elevatezoom.js" />
         <option value="$PROJECT_DIR$/catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/search.tpl" />
-        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/css/custommenu.css" />
-        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/stylesheet.css" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/ochozmegamenu.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/css/custommenu.css" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/stylesheet.css" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/newsletterpopup.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/newslettersubscribe.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/footer.tpl" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" />
       </list>
     </option>
@@ -407,7 +221,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -540,57 +353,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="extension" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ocquickview" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tt_valeri1" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extension" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="oclayerednavigation" />
+              <option name="myItemId" value="common" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -621,6 +384,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="stylesheet" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tt_valeri1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheet" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opentheme" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -684,6 +481,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -694,6 +492,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -777,25 +576,34 @@
       <workItem from="1500476877051" duration="4195000" />
       <workItem from="1500495335838" duration="20000" />
       <workItem from="1500620664530" duration="4452000" />
-      <workItem from="1500715604701" duration="17427000" />
+      <workItem from="1500715604701" duration="21510000" />
+      <workItem from="1500842861611" duration="1565000" />
     </task>
+    <task id="LOCAL-00001" summary="footer+header under develop">
+      <created>1500759793559</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500759793559</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36858000" />
+    <option name="totallyTimeSpent" value="42506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1612" height="867" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25515464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21778351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27126288" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970026" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839838" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -806,67 +614,59 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970026" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21778351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="footer+header under develop" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer+header under develop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/affiliate/forgotten.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/affiliate/transaction.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/affiliate/tracking.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/affiliate/success.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/affiliate/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/affiliate/payment.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/affiliate/password.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/affiliate/logout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -885,9 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <marker date="1451582690000" expanded="true" signature="597:602" ph="&amp;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -919,26 +716,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/carousel.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/newslettersubscribe.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="8" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/oclayerednavigation/css/oclayerednavigation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2057">
           <caret line="121" column="11" lean-forward="false" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -946,7 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2924">
           <caret line="172" column="16" lean-forward="false" selection-start-line="172" selection-start-column="16" selection-end-line="172" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -954,15 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="7" lean-forward="false" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/ocfeatureslider.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="41" column="23" lean-forward="false" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -970,7 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -978,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="121" column="11" lean-forward="false" selection-start-line="121" selection-start-column="11" selection-end-line="121" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -986,10 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1483603248000" expanded="true" signature="27270:27277" ph="×" />
-            <marker date="1483603248000" expanded="true" signature="28147:28161" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -997,9 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1451582690000" expanded="true" signature="143:161" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1007,7 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1015,7 +776,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1023,7 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,7 +790,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1039,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1047,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,7 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1063,7 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,7 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="31" column="47" lean-forward="false" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1079,7 +832,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1087,7 +839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="70" lean-forward="false" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1095,7 +846,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="70" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,7 +853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="70" lean-forward="false" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1111,7 +860,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="493" column="12" lean-forward="false" selection-start-line="493" selection-start-column="12" selection-end-line="493" selection-end-column="143" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1119,15 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="1" column="275" lean-forward="false" selection-start-line="1" selection-start-column="275" selection-end-line="1" selection-end-column="275" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/footer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="115" column="36" lean-forward="true" selection-start-line="115" selection-start-column="36" selection-end-line="115" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1135,7 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,15 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2609">
           <caret line="68" column="27" lean-forward="true" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
-          <folding>
-            <marker date="1500744755293" expanded="true" signature="4258:4390" ph="..." />
-            <marker date="1500744755293" expanded="true" signature="4652:4658" ph=" " />
-            <marker date="1500744755293" expanded="true" signature="5036:5151" ph="..." />
-            <marker date="1500744755293" expanded="true" signature="5348:5426" ph="..." />
-            <marker date="1500744755293" expanded="true" signature="5472:5478" ph=" " />
-            <marker date="1500744755293" expanded="true" signature="5620:5698" ph="..." />
-            <marker date="1500744755293" expanded="true" signature="5744:5750" ph=" " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1159,9 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2295">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1169,7 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="244" column="40" lean-forward="false" selection-start-line="244" selection-start-column="40" selection-end-line="244" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1177,17 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="25" />
-          <folding>
-            <element signature="n#ul#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="370" column="22" lean-forward="false" selection-start-line="370" selection-start-column="22" selection-end-line="370" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1195,52 +909,118 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/stylesheet.css">
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/images/icon-title.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/images/home_icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/images/bg_li.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/images/bg-menu-mobile.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/images/arrow_menu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="708" column="19" lean-forward="false" selection-start-line="708" selection-start-column="19" selection-end-line="708" selection-end-column="19" />
+        <state relative-caret-position="1377">
+          <caret line="81" column="50" lean-forward="false" selection-start-line="81" selection-start-column="50" selection-end-line="81" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/opentheme/hozmegamenu/css/custommenu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="376" column="28" lean-forward="false" selection-start-line="376" selection-start-column="28" selection-end-line="376" selection-end-column="28" />
+        <state relative-caret-position="765">
+          <caret line="45" column="19" lean-forward="false" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/newsletterpopup.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/oc_valeri.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="4030" column="4757" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11837" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/ocfeatureslider.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="13" column="88" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="13" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="121" column="21" lean-forward="true" selection-start-line="121" selection-start-column="21" selection-end-line="121" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/newslettersubscribe.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="523" column="22" lean-forward="false" selection-start-line="523" selection-start-column="22" selection-end-line="523" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/ochozmegamenu.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#!!top" expanded="false" />
-            <element signature="n#script#1;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl">
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="145" column="33" lean-forward="true" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="33" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#5938#6011#0#HTML" expanded="false" />
-            <element signature="e#6026#7178#0#HTML" expanded="false" />
-            <element signature="e#7193#7564#0#HTML" expanded="false" />
-            <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="2881" column="11" lean-forward="false" selection-start-line="2881" selection-start-column="11" selection-end-line="2881" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/carousel.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>

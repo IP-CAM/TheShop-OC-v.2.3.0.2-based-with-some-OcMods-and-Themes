@@ -47,7 +47,9 @@
 }
 .pt_custommenu div.pt_menu .parentMenu a:hover, .pt_menu.act a ,.pt_custommenu div.pt_menu.act a{
     color: #39b54a;
-    border-color: #39b54a;
+    border-color: none;
+    margin-bottom:10px;
+    text-decoration: underline;
 }
 .pt_custommenu .pt_menu > .parentMenu a:after {
     display: inline-block;

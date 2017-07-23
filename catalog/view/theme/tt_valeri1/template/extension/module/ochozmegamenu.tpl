@@ -15,7 +15,7 @@
 		</div>
 	</div>
 </div>
-<div class="nav-container visible-lg visible-md menu_links">
+<div class="nav-container visible-lg visible-md main_menu">
 	<div class="nav1">
 		<div class="nav2">
 			<div id="pt_custommenu" class="pt_custommenu ">

@@ -121,10 +121,9 @@ Please donate via PayPal to donate@opencart.com
                     <p class="footer-contacts-phone">+38 091 234 56 78</p>
                     <p class="footer-contacts-phone mail">somemail@some.com</p></div>
             </div>
-            <div class="footer-main-social">
-                <a href="" class="social facebook"></a>
-                <a href=""class="social insta"></a>
-                <a href="" class="social vk"></a></div>
+            <div class="footer-main-social"><a href="" class="social facebook"></a><a href=""
+                                                                                      class="social insta"></a><a
+                        href="" class="social vk"></a></div>
         </div>
         <div class="footer-bottom"><p class="copyrights">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                 sed</p></div>

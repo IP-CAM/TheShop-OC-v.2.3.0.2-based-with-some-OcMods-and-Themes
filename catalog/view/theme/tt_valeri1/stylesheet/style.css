@@ -380,6 +380,7 @@ align-content: center;
     margin: 0;
     height:35px;
 
+
 }
 .top-search-content{
     width:40%;
@@ -504,8 +505,35 @@ align-content: center;
     justify-content:space-between;
 }
 .pt_custommenu .parentMenu:hover{
+    /*border:none;*/
+
+}
+.pt_menu .parentMenu a{
+    color: white!important;
+    /*border:none;*/
+}
+.popup{
+    color: black!important;
+}
+#cart .dropdown-menu{
     border:none;
 }
+
+/* CENTRAL BANNER  *********************************************/
+
+.slider-1 .banner7-des{
+    /* Style for "Work hard" */
+
+    width: 434px;
+    height: 20px;
+    color: #7e7e7e;
+    font-family: "Open Sans";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+
 
 /*.text-top-wishlist{*/
     /*color: #85827d!important;*/
