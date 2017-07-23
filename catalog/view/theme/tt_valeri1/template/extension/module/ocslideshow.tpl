@@ -41,8 +41,8 @@
 									<?php echo $s['description']; ?>
 								</div>
 								<?php if( $s['link'] ) { ?>
-									<div class="banner7-readmore">
-										<a href="<?php echo $s['link']?>" title="<?php echo $text_readmore; ?>"><?php echo $text_readmore; ?></a>
+									<div class="banner7-readmore ">
+										<a href="<?php echo $s['link']?>" class="banner_button" title="<?php echo $text_readmore; ?>">DETAILS</a>
 									</div>
 								<?php } ?>
 							</div>
