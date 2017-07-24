@@ -351,7 +351,7 @@
     padding: 0;
 }
 
-
+/**HEADER****************************************************/
 .header-panel-right{
     width:100%;
     display: flex!important;
@@ -379,6 +379,7 @@ align-content: center;
 #search{
     margin: 0;
     height:35px;
+
 
 }
 .top-search-content{
@@ -504,7 +505,91 @@ align-content: center;
     justify-content:space-between;
 }
 .pt_custommenu .parentMenu:hover{
+    /*border:none;*/
+
+}
+.pt_menu .parentMenu a{
+    color: white!important;
+    /*border:none;*/
+}
+.popup{
+    color: #101010!important;
+}
+#cart .dropdown-menu{
     border:none;
+}
+
+/* CENTRAL BANNER  *********************************************/
+.banner7 {
+    background-color: #101010!important;
+
+}
+.slider-1 h1{
+    
+    width: 308px;
+    height: 40px;
+    font-size: 72px!important;
+    font-weight:600;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    line-height: 45px;
+    text-transform: uppercase;
+
+
+}
+.slider-1 .banner7-des{
+    /* Style for "Work hard" */
+
+    width: 450px;
+    height: 33px;
+    color: #7e7e7e;
+    font-family: "Open Sans",sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+
+.slider-1 .sub-title {
+    width: 332px;
+    height: 40px;
+    font-family: "Open Sans",sans-serif;
+    line-height: 45px;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 57px!important;
+    font-weight: 600;
+
+}
+.slider-1 .sub-title:first-letter{
+    color: #39b54a!important;
+    font-size: 57px;
+    font-weight: 300;
+}
+
+.banner_button {
+    width:270px!important;
+    background-color: #39b54a!important;
+    display: block;
+    color:#101010!important;
+    font-family: "Open Sans",sans-serif;
+    font-size: 24px!important;
+    font-weight: bold;
+    line-height: 18px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.banner_button:hover{
+    color: #fff!important
+}
+
+/**BRAND CAROUSELE***********************************************************/
+.container_brands{
+    width:100%;
+    display: flex;
+    justify-content:center;
+
 }
 
 /*.text-top-wishlist{*/
