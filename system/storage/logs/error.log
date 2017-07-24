@@ -2876,3 +2876,72 @@
 2017-07-24 1:56:51 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
 2017-07-24 1:56:51 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
 2017-07-24 1:56:51 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:02:58 - PHP Notice:  Array to string conversion in C:\server\OpenServer\domains\theshop.com\admin\view\template\extension\module\ocpagebuilder\oc_page_builder.tpl on line 214
+2017-07-24 2:03:18 - PHP Notice:  Array to string conversion in C:\server\OpenServer\domains\theshop.com\admin\view\template\extension\module\ocpagebuilder\oc_page_builder.tpl on line 214
+2017-07-24 2:09:21 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:09:21 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:09:21 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:09:21 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:11:52 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:11:52 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:11:52 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:11:52 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:14:08 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:14:08 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:14:08 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:14:08 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:14:28 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:14:28 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:14:28 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:14:28 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:14:55 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:14:55 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:14:55 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:14:55 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:15:12 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:15:12 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:15:12 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:15:12 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:15:15 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:15:15 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:15:15 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:15:15 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:17:44 - PHP Notice:  Array to string conversion in C:\server\OpenServer\domains\theshop.com\admin\view\template\extension\module\ocpagebuilder\oc_page_builder.tpl on line 214
+2017-07-24 2:20:20 - PHP Notice:  Undefined index: reviews in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\extension\module\ocfeatureslider.tpl on line 75
+2017-07-24 2:20:20 - PHP Notice:  Undefined index: reviews in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\extension\module\ocfeatureslider.tpl on line 75
+2017-07-24 2:20:20 - PHP Notice:  Undefined index: reviews in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\extension\module\ocfeatureslider.tpl on line 75
+2017-07-24 2:20:20 - PHP Notice:  Undefined index: reviews in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\extension\module\ocfeatureslider.tpl on line 75
+2017-07-24 2:20:20 - PHP Notice:  Undefined index: reviews in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\extension\module\ocfeatureslider.tpl on line 75
+2017-07-24 2:20:21 - PHP Notice:  Undefined index: filter_groups in C:\server\OpenServer\domains\theshop.com\catalog\controller\extension\module\oclayerednavigation.php on line 118
+2017-07-24 2:20:21 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 2:20:21 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 2:21:30 - PHP Notice:  Array to string conversion in C:\server\OpenServer\domains\theshop.com\admin\view\template\extension\module\ocpagebuilder\oc_page_builder.tpl on line 214
+2017-07-24 15:46:11 - PHP Notice:  Undefined index: reviews in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\extension\module\ocfeatureslider.tpl on line 75
+2017-07-24 15:46:11 - PHP Notice:  Undefined index: reviews in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\extension\module\ocfeatureslider.tpl on line 75
+2017-07-24 15:46:11 - PHP Notice:  Undefined index: reviews in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\extension\module\ocfeatureslider.tpl on line 75
+2017-07-24 15:46:11 - PHP Notice:  Undefined index: reviews in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\extension\module\ocfeatureslider.tpl on line 75
+2017-07-24 15:46:11 - PHP Notice:  Undefined index: reviews in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\extension\module\ocfeatureslider.tpl on line 75
+2017-07-24 15:46:11 - PHP Notice:  Undefined index: filter_groups in C:\server\OpenServer\domains\theshop.com\catalog\controller\extension\module\oclayerednavigation.php on line 118
+2017-07-24 15:46:11 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 15:46:11 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 15:46:37 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 15:46:37 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 15:46:37 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 15:46:37 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 15:46:44 - PHP Notice:  Undefined variable: quantity in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\product\product.tpl on line 88
+2017-07-24 15:46:45 - PHP Notice:  Undefined variable: quantity in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\product\product.tpl on line 88
+2017-07-24 15:47:45 - PHP Notice:  Array to string conversion in C:\server\OpenServer\domains\theshop.com\admin\view\template\extension\module\ocpagebuilder\oc_page_builder.tpl on line 214
+2017-07-24 15:47:54 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 15:47:54 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 15:47:54 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 15:47:54 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 15:48:07 - PHP Notice:  Array to string conversion in C:\server\OpenServer\domains\theshop.com\admin\view\template\extension\module\ocpagebuilder\oc_page_builder.tpl on line 214
+2017-07-24 15:48:21 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 15:48:21 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 16:00:15 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 16:00:15 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 16:00:37 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 9
+2017-07-24 16:00:37 - PHP Notice:  Undefined index: format in C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\template\common\layout_content_built.tpl on line 10
+2017-07-24 16:00:46 - PHP Notice:  Array to string conversion in C:\server\OpenServer\domains\theshop.com\admin\view\template\extension\module\ocpagebuilder\oc_page_builder.tpl on line 214
+2017-07-24 16:01:18 - PHP Notice:  Array to string conversion in C:\server\OpenServer\domains\theshop.com\admin\view\template\extension\module\ocpagebuilder\oc_page_builder.tpl on line 214
+2017-07-24 16:01:27 - PHP Notice:  Array to string conversion in C:\server\OpenServer\domains\theshop.com\admin\view\template\extension\module\ocpagebuilder\oc_page_builder.tpl on line 214
