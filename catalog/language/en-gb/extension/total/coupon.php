@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Coupon Code';
+$_['heading_title'] = 'Використайте промо-код';
 
 // Text
-$_['text_coupon']   = 'Coupon (%s)';
-$_['text_success']  = 'Success: Your coupon discount has been applied!';
+$_['text_coupon']   = 'Промокод (%s)';
+$_['text_success']  = 'Знижка по промокоду встановлена!';
 
 // Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+$_['entry_coupon']  = 'ВВедіть Ваш промо-код сюди';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_empty']   = 'Warning: Please enter a coupon code!';
+$_['error_coupon']  = 'Увага: Промо-код неправильний, або його термін вийшов!';
+$_['error_empty']   = 'Увага: ВВедіть промо-код тут!';

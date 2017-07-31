@@ -1,2 +1,2 @@
 <?php
-$_['text_readmore'] = 'Read more';
+$_['text_Більше'] = 'Більше...';

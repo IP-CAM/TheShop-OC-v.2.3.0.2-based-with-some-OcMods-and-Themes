@@ -1,16 +1,16 @@
 <?php
-$_['heading_title']     = 'Special Offers';
+$_['heading_title']     = 'Спеціальна пропозиція';
 
 //Text
-$_['text_reviews']      = '%s reviews';
-$_['text_years']        = "Years";
-$_['text_months']       = "Months";
-$_['text_weeks']        = "Weeks";
-$_['text_days']         = "Days";
-$_['text_hours']        = "Hours";
-$_['text_minutes']      = "Minutes";
-$_['text_seconds']      = "Seconds";
+$_['text_reviews']      = '%s переглядів';
+$_['text_years']        = "Років";
+$_['text_months']       = "Місяців";
+$_['text_weeks']        = "Тижнів";
+$_['text_days']         = "Днів";
+$_['text_hours']        = "Годин";
+$_['text_minutes']      = "Хвилин";
+$_['text_seconds']      = "Секунд";
 $_['text_sale']      = 'Sale';
 $_['text_new']      = 'New';
-$_['text_empty']    = 'There is no Products has Price Countdown!';
+$_['text_empty']    = 'Немає товарів зі знижками!';
 ?>

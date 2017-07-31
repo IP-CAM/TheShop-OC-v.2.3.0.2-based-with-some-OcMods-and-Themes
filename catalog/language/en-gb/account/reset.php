@@ -3,15 +3,15 @@
 $_['heading_title']  = 'Reset your password';
 
 // Text
-$_['text_account']   = 'Account';
-$_['text_password']  = 'Enter the new password you wish to use.';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
+$_['text_account']   = 'Обліковий Запис';
+$_['text_password']  = 'ВВедіть новий пароль';
+$_['text_success']   = 'Ви успішно оновили свій пароль';
 
 // Entry
-$_['entry_password'] = 'Password';
-$_['entry_confirm']  = 'Confirm';
+$_['entry_password'] = 'Пароль';
+$_['entry_confirm']  = 'ПІдтвердити';
 
 // Error
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password and password confirmation do not match!';
-$_['error_code']     = 'Password reset code is invalid or was used previously!';
+$_['error_password'] = 'Пароль повинен містити від 4 до 20 символів';
+$_['error_confirm']  = 'Пароль та підтвердження паролю не співпадають!';
+$_['error_code']     = 'Код для скидання паролю уже використовувався';

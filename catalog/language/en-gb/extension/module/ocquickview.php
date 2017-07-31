@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_quickview']  = 'Quick View'; 
+$_['text_quickview']  = 'Швидкий перегляд';
 ?>

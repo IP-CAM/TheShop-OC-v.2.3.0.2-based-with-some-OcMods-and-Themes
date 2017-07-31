@@ -17,13 +17,13 @@ $_['help_issue']				= '(for Maestro and Solo cards only)';
 // Text
 $_['text_result']				= 'Result: ';
 $_['text_approval_code']		= 'Approval code: ';
-$_['text_reference_number']		= 'Reference: ';
+$_['text_reference_number']		= 'Посилання: ';
 $_['text_card_number_ref']		= 'Card last 4 digits: xxxx ';
 $_['text_card_brand']			= 'Card brand: ';
 $_['text_response_code']		= 'Response code: ';
 $_['text_fault']				= 'Fault message: ';
 $_['text_error']				= 'Error message: ';
-$_['text_avs']					= 'Address verification: ';
+$_['text_avs']					= 'Адреса verification: ';
 $_['text_address_ppx']			= 'No address data provided or Address not checked by the Card Issuer';
 $_['text_address_yyy']			= 'Card Issuer confirmed that street and postcode match with their records';
 $_['text_address_yna']			= 'Card Issuer confirmed that street matches with their records but postcode does not match';

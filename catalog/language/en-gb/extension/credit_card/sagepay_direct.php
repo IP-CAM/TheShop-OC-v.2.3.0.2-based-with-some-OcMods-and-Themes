@@ -3,8 +3,8 @@
 $_['heading_title']         = 'Sagepay Direct Cards';
 
 // Text
-$_['text_empty']		    = 'You have no saved cards';
-$_['text_account']          = 'Account';
+$_['text_empty']		    = 'У Вас немає збережених карт';
+$_['text_account']          = 'Обліковий Запис';
 $_['text_card']			    = 'SagePay Direct Card Management';
 $_['text_fail_card']	    = 'There was an issue removing your SagePay card, Please contact the shop administrator for help.';
 $_['text_success_card']     = 'SagePay card successfully removed';

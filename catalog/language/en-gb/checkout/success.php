@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']        = 'Your order has been placed!';
+$_['heading_title']        = 'Ваше замовлення прийнято!';
 
 // Text
-$_['text_basket']          = 'Shopping Cart';
-$_['text_checkout']        = 'Checkout';
-$_['text_success']         = 'Success';
-$_['text_customer']        = '<p>Your order has been successfully processed!</p><p>You can view your order history by going to the <a href="%s">my account</a> page and by clicking on <a href="%s">history</a>.</p><p>If your purchase has an associated download, you can go to the account <a href="%s">downloads</a> page to view them.</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
-$_['text_guest']           = '<p>Your order has been successfully processed!</p><p>Please direct any questions you have to the <a href="%s">store owner</a>.</p><p>Thanks for shopping with us online!</p>';
+$_['text_basket']          = 'Корзина';
+$_['text_checkout']        = 'Перевірка';
+$_['text_success']         = 'Успішно';
+$_['text_customer']        = '<p>Ваше замовлення прийнято!</p><p>Ви можете переглянути історію своїх замовлень в<a href="%s">Особистому кабінеті</a> натиснувши на <a href="%s">історія</a>.</p><p>якщо у вас є завантаження, натисніть<a href="%s">сюди,</a>, щоб переглянути їх.</p><p> Будь ласка, з запитаннями звертайтеся <a href="%s">до служби підтримки</a>.</p><p> Дякуємо за покупку у нашому магазині!</p>';
+$_['text_guest']           = '<p>Ваше замовлення прийнято!</p><p>Будь ласка, з запитаннями звертайтеся <a href="%s">до служби підтримки</a>.</p><p>Дякуємо за покупку у нашому магазині!</p>';

@@ -4,15 +4,15 @@ $_['heading_title'] = 'Product Tabs Slider';
 
 // Text
 $_['text_tax']      = 'Ex Tax:';
-$_['text_bestseller']   = 'Bestseller';
-$_['text_mostviewed']      = 'Most Viewed';
-$_['text_random']      = 'Random';
-$_['text_special']      = 'Special';
-$_['text_latest']      = 'Latest';
+$_['text_bestseller']   = 'Бестселери';
+$_['text_mostviewed']      = 'Найпопулярніші';
+$_['text_random']      = 'Випадкові';
+$_['text_special']      = 'Спеціальні пропозиції';
+$_['text_latest']      = 'Найновіші';
 $_['text_sale']      = 'Sale';
 $_['text_new']      = 'New';
-$_['text_empty_mostviewed']    = 'There is no Most Viewed Products!';
-$_['text_empty_random']    = 'There is no Random Products!';
-$_['text_empty_special']    = 'There is no Special Products!';
-$_['text_empty_latest']    = 'There is no New Products!';
-$_['text_empty_bestseller']    = 'There is no Bestseller Products!';
+$_['text_empty_mostviewed']    = 'Немає найпопулярніших товарів!';
+$_['text_empty_random']    = 'Немає випадкових товарів!';
+$_['text_empty_special']    = 'Немає спеціальних товарів!';
+$_['text_empty_latest']    = 'Немає нових товарів!';
+$_['text_empty_bestseller']    = 'Немає бестселерів!';

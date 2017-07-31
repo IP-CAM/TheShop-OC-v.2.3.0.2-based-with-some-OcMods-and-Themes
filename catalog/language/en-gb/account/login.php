@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']                = 'Account Login';
+$_['heading_title']                = 'Увійти';
 
 // Text
-$_['text_account']                 = 'Account';
-$_['text_login']                   = 'Login';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
-$_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
-$_['text_forgotten']               = 'Forgotten Password';
+$_['text_account']                 = 'Обліковий запис';
+$_['text_login']                   = 'Увійти';
+$_['text_new_customer']            = 'Новий клієнт';
+$_['text_register']                = 'зареєструвати обліковий запис';
+$_['text_register_account']        = 'Створивши обліковий запис, Ви зможете купувати швидше, отримувати актуальну інформацію по замовленню, а також переглядати свої попередні замовлення';
+$_['text_returning_customer']      = 'Увійти в свій запис';
+$_['text_i_am_returning_customer'] = 'У мене вже є обліковий запис';
+$_['text_forgotten']               = 'Забули пароль';
 
 // Entry
-$_['entry_email']                  = 'E-Mail Address';
-$_['entry_password']               = 'Password';
+$_['entry_email']                  = 'E-Mail ';
+$_['entry_password']               = 'Пароль';
 
 // Error
-$_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']               = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']               = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                  = 'Увага: E-Mail та пароль не співпадають.';
+$_['error_attempts']               = 'Увага: Ви перевищили кількість спроб увійти, спробуйте знову через 1 годину.';
+$_['error_approved']               = 'Увага: перед тим, як увійти, необхідно підтвердити обліковий запис.';

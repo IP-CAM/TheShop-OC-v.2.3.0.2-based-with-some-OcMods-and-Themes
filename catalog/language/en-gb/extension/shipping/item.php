@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title']       = 'Per Item';
-$_['text_description'] = 'Per Item Shipping Rate';
+$_['text_title']       = 'За одиницю';
+$_['text_description'] = 'Вартість доставки за одиницю';

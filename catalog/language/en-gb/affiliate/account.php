@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']        = 'My Affiliate Account';
+$_['heading_title']        = 'Мій партнерський обліковий запис';
 
 // Text
-$_['text_account']         = 'Account';
-$_['text_my_account']      = 'My Affiliate Account';
-$_['text_my_tracking']     = 'My Tracking Information';
-$_['text_my_transactions'] = 'My Transactions';
-$_['text_edit']            = 'Edit your account information';
-$_['text_password']        = 'Change your password';
-$_['text_payment']         = 'Change your payment preferences';
+$_['text_account']         = 'Обліковий Запис';
+$_['text_my_account']      = 'Мій партнерський обліковий запис';
+$_['text_my_tracking']     = 'Інформація по переміщенні';
+$_['text_my_transactions'] = 'Мої операції';
+$_['text_edit']            = 'Редагувати особисті дані';
+$_['text_password']        = 'Змінити пароль';
+$_['text_payment']         = 'Змінити налаштування оплати';
 $_['text_tracking']        = 'Custom Affiliate Tracking Code';
-$_['text_transaction']     = 'View your transaction history';
+$_['text_transaction']     = 'Переглянути історію операцій';

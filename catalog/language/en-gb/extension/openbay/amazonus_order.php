@@ -7,4 +7,4 @@ $_['text_total_giftwrap'] 		= 'Gift wrap';
 $_['text_total_giftwrap_tax'] 	= 'Gift wrap tax';
 $_['text_total_sub'] 			= 'Sub-total';
 $_['text_tax'] 					= 'Tax';
-$_['text_total'] 				= 'Total';
+$_['text_total'] 				= 'Разом';

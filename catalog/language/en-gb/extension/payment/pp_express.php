@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['express_text_title']      = 'Confirm order';
+$_['express_text_title']      = 'Підтвердити замовлення';
 
 // Text
 $_['text_title']              = 'PayPal Express Checkout';
-$_['text_cart']               = 'Shopping Cart';
+$_['text_cart']               = 'Корзина';
 $_['text_shipping_updated']   = 'Shipping service updated';
 $_['text_trial']              = '%s every %s %s for %s payments then ';
 $_['text_recurring']          = '%s every %s %s';
@@ -16,7 +16,7 @@ $_['express_entry_coupon']    = 'Enter your coupon here:';
 
 // Button
 $_['button_express_coupon']   = 'Add';
-$_['button_express_confirm']  = 'Confirm';
+$_['button_express_confirm']  = 'ПІдтвердити';
 $_['button_express_login']    = 'Continue to PayPal';
 $_['button_express_shipping'] = 'Update shipping';
 

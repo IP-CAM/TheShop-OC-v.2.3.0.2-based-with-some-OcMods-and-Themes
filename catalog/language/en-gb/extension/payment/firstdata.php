@@ -8,7 +8,7 @@ $_['button_confirm']			= 'Continue';
 // Text
 $_['text_new_card']				= 'New card';
 $_['text_store_card']			= 'Remember my card details';
-$_['text_address_response']		= 'Address verification: ';
+$_['text_address_response']		= 'Адреса verification: ';
 $_['text_address_ppx']			= 'No address data provided or Address not checked by the Card Issuer';
 $_['text_address_yyy']			= 'Card Issuer confirmed that street and postcode match with their records';
 $_['text_address_yna']			= 'Card Issuer confirmed that street matches with their records but postcode does not match';

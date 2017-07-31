@@ -8,8 +8,8 @@ $_['text_payment_failed']				= 'Payment failed, details below';
 $_['entry_holder']						= 'Card Holder Name';
 $_['entry_pan']							= 'Card Number';
 $_['entry_expires']						= 'Expires';
-$_['entry_exp_month']					= 'Month';
-$_['entry_exp_year']					= 'Year';
+$_['entry_exp_month']					= 'місяць';
+$_['entry_exp_year']					= 'рік';
 $_['entry_cvc']							= 'CVC';
 
 // Error

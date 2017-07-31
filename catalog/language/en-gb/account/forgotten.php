@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']   = 'Forgot Your Password?';
+$_['heading_title']   = 'Забули пароль?';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_forgotten']  = 'Forgotten Password';
-$_['text_your_email'] = 'Your E-Mail Address';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have a password reset link e-mailed to you.';
-$_['text_success']    = 'An email with a confirmation link has been sent your email address.';
+$_['text_account']    = 'Обліковий запис';
+$_['text_forgotten']  = 'Забули пароль';
+$_['text_your_email'] = 'Ваш E-Mail';
+$_['text_email']      = 'Введіть e-mail повязаний з обліковим записом. Натисніть кнопку підтвердити, щоб отримати посилання для скидаття паролю на e-mail.';
+$_['text_success']    = 'Листа з посиланням для зміни паролю відправлено.';
 
 // Entry
-$_['entry_email']     = 'E-Mail Address';
-$_['entry_password']  = 'New Password';
-$_['entry_confirm']   = 'Confirm';
+$_['entry_email']     = 'E-Mail';
+$_['entry_password']  = 'Новий пароль';
+$_['entry_confirm']   = 'Підтвердження паролю';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
-$_['error_approved']  = 'Warning: Your account requires approval before you can login.';
-$_['error_password']  = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']   = 'Password and password confirmation do not match!';
+$_['error_email']     = 'Увага: такий E-Mail не існує в нашій базі, спробуйте ще раз!';
+$_['error_approved']  = 'Увага: Ваш обліковий запис вимагає підтвердження, перед тим, як увійти.';
+$_['error_password']  = 'Пароль повинен містити від 4 до 32 символів!';
+$_['error_confirm']   = 'Пароль та підтвердження паролю не співпадають!';

@@ -3,15 +3,15 @@
 $_['heading_title']   = 'Forgot Your Password?';
 
 // Text
-$_['text_account']    = 'Account';
-$_['text_forgotten']  = 'Forgotten Password';
-$_['text_your_email'] = 'Your E-Mail Address';
-$_['text_email']      = 'Enter the e-mail address associated with your account. Click submit to have your password e-mailed to you';
-$_['text_success']    = 'Success: A new password has been sent to your e-mail address.';
+$_['text_account']    = 'Обліковий Запис';
+$_['text_forgotten']  = 'Забули пароль';
+$_['text_your_email'] = 'Ваш E-Mail';
+$_['text_email']      = 'Введіть e-mail адресу, пов\'язану з Вашим обліковим записом. Натисніть Виконати, щоб отримати ваш пароль';
+$_['text_success']    = 'Новий пароль відправлено на Ваш e-mail.';
 
 // Entry
 $_['entry_email']     = 'E-Mail Address';
 
 // Error
-$_['error_email']     = 'Warning: The E-Mail Address was not found in our records, please try again!';
-$_['error_approved']  = 'Warning: Your account requires approval before you can login.';
+$_['error_email']     = 'Увага: цієї E-Mail немає в базі, спробуйте ще раз!';
+$_['error_approved']  = 'Увага: Ваш обліковий запис необхідно підтвердити, перед тим, як Ви зможете увійти.';

@@ -1,47 +1,47 @@
 <?php
 // Heading
-$_['heading_title']        = 'Register Account';
+$_['heading_title']        = 'Реєструвати обліковий запис';
 
 // Text
-$_['text_account']         = 'Account';
-$_['text_register']        = 'Register';
-$_['text_account_already'] = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
-$_['text_your_details']    = 'Your Personal Details';
-$_['text_your_address']    = 'Your Address';
-$_['text_newsletter']      = 'Newsletter';
-$_['text_your_password']   = 'Your Password';
-$_['text_agree']           = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_account']         = 'Обліковий Запис';
+$_['text_register']        = 'Реєстрація';
+$_['text_account_already'] = 'Якщо у Вас уже є обліковий запис, увійдіть через<a href="%s">сторінку входу</a>.';
+$_['text_your_details']    = 'Ваші персональні дані';
+$_['text_your_address']    = 'Ваша адреса';
+$_['text_newsletter']      = 'Розсилка';
+$_['text_your_password']   = 'Ваш пароль';
+$_['text_agree']           = 'Я згоден з <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
 $_['entry_customer_group'] = 'Customer Group';
-$_['entry_firstname']      = 'First Name';
-$_['entry_lastname']       = 'Last Name';
+$_['entry_firstname']      = 'Ім\'я';
+$_['entry_lastname']       = 'Прізвище';
 $_['entry_email']          = 'E-Mail';
-$_['entry_telephone']      = 'Telephone';
-$_['entry_fax']            = 'Fax';
-$_['entry_company']        = 'Company';
-$_['entry_address_1']      = 'Address 1';
-$_['entry_address_2']      = 'Address 2';
-$_['entry_postcode']       = 'Post Code';
-$_['entry_city']           = 'City';
-$_['entry_country']        = 'Country';
-$_['entry_zone']           = 'Region / State';
-$_['entry_newsletter']     = 'Subscribe';
-$_['entry_password']       = 'Password';
-$_['entry_confirm']        = 'Password Confirm';
+$_['entry_telephone']      = 'Телефон';
+$_['entry_fax']            = 'Факс';
+$_['entry_company']        = 'Компанія';
+$_['entry_address_1']      = 'Адреса 1';
+$_['entry_address_2']      = 'Адреса 2';
+$_['entry_postcode']       = 'Поштовий індекс';
+$_['entry_city']           = 'Місто';
+$_['entry_country']        = 'Країна';
+$_['entry_zone']           = 'Регіон / область';
+$_['entry_newsletter']     = 'Підписатися';
+$_['entry_password']       = 'Пароль';
+$_['entry_confirm']        = 'підтвердження паролю';
 
 // Error
-$_['error_exists']         = 'Warning: E-Mail Address is already registered!';
-$_['error_firstname']      = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']       = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']          = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']      = 'Telephone must be between 3 and 32 characters!';
-$_['error_address_1']      = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']           = 'City must be between 2 and 128 characters!';
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
-$_['error_custom_field']   = '%s required!';
-$_['error_password']       = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']        = 'Password confirmation does not match password!';
-$_['error_agree']          = 'Warning: You must agree to the %s!';
+$_['error_exists']         = 'Увага: E-Mail уже використовується';
+$_['error_firstname']      = 'Ім\'я повинно містити від 1 до 32 символів';
+$_['error_lastname']       = 'Прізвище повинно містити від 1 до 32 символів';
+$_['error_email']          = 'E-mail вказаний невірно';
+$_['error_telephone']      = 'Телефон повинен містити від 3 до 32 символів!';
+$_['error_address_1']      = 'Адреса 1 повинна містити від 3 до 32 символів!';
+$_['error_city']           = 'Місто повинне містити від 2 до 128 символів!';
+$_['error_postcode']       = 'Поштовий індекс повинен містити від 2 до 10 символів!';
+$_['error_country']        = 'Виберіть, будь ласка, країну';
+$_['error_zone']           = 'Виберіть, будь ласка, регіон/область';
+$_['error_custom_field']   = '%s необхідно!';
+$_['error_password']       = 'Пароль повинен містити від 4 до 20 символів';
+$_['error_confirm']        = 'Пароль та підтвердження паролю не співпадають';
+$_['error_agree']          = 'Увага: Ви повинні згодитися з %s!';

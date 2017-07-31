@@ -1,16 +1,16 @@
 <?php
 // Text
-$_['text_success']           = 'Success: You have modified orders!';
+$_['text_success']           = 'Ви успішно редагували замовлення!';
 
 // Error
-$_['error_permission']       = 'Warning: You do not have permission to access the API!';
-$_['error_customer']         = 'Warning: Customer details needs to be set!';
-$_['error_payment_address']  = 'Warning: Payment address required!';
-$_['error_payment_method']   = 'Warning: Payment method required!';
-$_['error_no_payment']       = 'Warning: No Payment options are available!';
-$_['error_shipping_address'] = 'Warning: Shipping address required!';
-$_['error_shipping_method']  = 'Warning: Shipping method required!';
-$_['error_no_shipping']      = 'Warning: No Shipping options are available!';
-$_['error_stock']            = 'Warning: Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Warning: Minimum order amount for %s is %s!';
-$_['error_not_found']        = 'Warning: Order could not be found!';
+$_['error_permission']       = 'Увага: Увага: Ви не маєте доступу до API!';
+$_['error_customer']         = 'Увага: необхідно внести дані покупця!';
+$_['error_payment_address']  = 'Увага: Необхідно ввести адресу оплати';
+$_['error_payment_method']   = 'Увага: Необхідно ввести спосіб оплати';
+$_['error_no_payment']       = 'Увага: немає доступних опцій оплати!';
+$_['error_shipping_address'] = 'Увага: Необхідно ввести  адресу доставки';
+$_['error_shipping_method']  = 'Увага: Необхідно ввести  спосіб доставки';
+$_['error_no_shipping']      = 'Увага: немає доступних опцій доставки';
+$_['error_stock']            = 'Увага: товари позначені *** недоступні в заданій кількості В наявності!';
+$_['error_minimum']          = 'Увага: Мінімальне замовлення для %s становить %s!';
+$_['error_not_found']        = 'Увага: Замовлення не знайдено!';

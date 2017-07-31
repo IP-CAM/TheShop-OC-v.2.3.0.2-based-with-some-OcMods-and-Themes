@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']    = 'Affiliate';
+$_['heading_title']    = 'Партнерство';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_payment']     = 'Payment Options';
-$_['text_tracking']    = 'Affiliate Tracking';
-$_['text_transaction'] = 'Transactions';
+$_['text_register']    = 'Реєстрація';
+$_['text_login']       = 'Увійти';
+$_['text_logout']      = 'Вийти';
+$_['text_forgotten']   = 'Забули пароль';
+$_['text_account']     = 'Мій кабінет';
+$_['text_edit']        = 'Редагувати обліковий запис';
+$_['text_password']    = 'Пароль';
+$_['text_payment']     = 'Опції оплати';
+$_['text_tracking']    = 'відслідкувати партнерство';
+$_['text_transaction'] = 'Операції';

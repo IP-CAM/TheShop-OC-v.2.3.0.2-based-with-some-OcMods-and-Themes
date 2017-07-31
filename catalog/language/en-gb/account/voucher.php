@@ -1,32 +1,32 @@
 <?php
 // Heading
-$_['heading_title']    = 'Purchase a Gift Certificate';
+$_['heading_title']    = 'Придбати подарунковий сертифікат';
 
 // Text
-$_['text_account']     = 'Account';
-$_['text_voucher']     = 'Gift Certificate';
-$_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
-$_['text_agree']       = 'I understand that gift certificates are non-refundable.';
-$_['text_message']     = '<p>Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.</p>';
-$_['text_for']         = '%s Gift Certificate for %s';
+$_['text_account']     = 'Обліковий Запис';
+$_['text_voucher']     = 'Подарунковий сертифікат';
+$_['text_description'] = 'Цей подарунковий сертифікат буде відправлено на e-mail  одержувача, як тільки Ви оплатите замовлення.';
+$_['text_agree']       = 'Я усвідомлюю, що подарункові сертифікати поверненню не підлягають.';
+$_['text_message']     = '<p>Дякуємо, що купили подарунковий сертифікат! Як тільки Ви закінчете оформлення замовлення, одержувач сертифікату отримає e-mail з інструкціями, як скористатися сертифікатом.</p>';
+$_['text_for']         = '%s Подарунковий Сертивікат на %s';
 
 // Entry
-$_['entry_to_name']    = 'Recipient\'s Name';
-$_['entry_to_email']   = 'Recipient\'s e-mail';
-$_['entry_from_name']  = 'Your Name';
-$_['entry_from_email'] = 'Your e-mail';
-$_['entry_theme']      = 'Gift Certificate Theme';
-$_['entry_message']    = 'Message';
-$_['entry_amount']     = 'Amount';
+$_['entry_to_name']    = 'Ім\'я одержувача';
+$_['entry_to_email']   = 'E-mail одержувача';
+$_['entry_from_name']  = 'Ваше ім\'я';
+$_['entry_from_email'] = 'Ваш e-mail';
+$_['entry_theme']      = 'Тема сертифікату';
+$_['entry_message']    = 'Повідомлення';
+$_['entry_amount']     = 'Кількість';
 
 // Help
-$_['help_message']     = 'Optional';
-$_['help_amount']      = 'Value must be between %s and %s';
+$_['help_message']     = 'Додатково';
+$_['help_amount']      = 'Сума повинна бути між %s та %s';
 
 // Error
-$_['error_to_name']    = 'Recipient\'s Name must be between 1 and 64 characters!';
-$_['error_from_name']  = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']      = 'E-Mail Address does not appear to be valid!';
-$_['error_theme']      = 'You must select a theme!';
-$_['error_amount']     = 'Amount must be between %s and %s!';
-$_['error_agree']      = 'Warning: You must agree that the gift certificates are non-refundable!';
+$_['error_to_name']    = 'Ім\'я одержувача must be between 1 and 64 characters!';
+$_['error_from_name']  = 'Ім\'я повинно містити від 1 до 64 символів!';
+$_['error_email']      = 'E-mail вказаний невірно';
+$_['error_theme']      = 'Ви повинні вибрати тему!';
+$_['error_amount']     = 'Кількість повинна бути від %s до %s!';
+$_['error_agree']      = 'Увага: Ви повинні згодитися з тим, що подарункові сертифікати поверненню не підлягають';

@@ -7,7 +7,7 @@ $_['heading_confirm']			= 'Order summary';
 // Text
 $_['text_back']					= 'Back';
 $_['text_cart']					= 'Cart';
-$_['text_confirm']				= 'Confirm';
+$_['text_confirm']				= 'ПІдтвердити';
 $_['text_continue']				= 'Continue';
 $_['text_lpa']					= 'Login and Pay with Amazon';
 $_['text_enter_coupon']			= 'Enter your coupon code here. If you don\'t have one, leave it empty.';
@@ -24,4 +24,4 @@ $_['error_no_shipping_methods'] = 'There are no shipping options to the selected
 $_['error_process_order']		= 'There was an error processing your order. Please contact the shop administrator for help.';
 $_['error_login']				= 'Login failed';
 $_['error_login_email']			= 'Login failed: %s account email address did not match Amazon account email address';
-$_['error_minimum']             = 'Minimum order amount for Login and Pay with Amazon is %s!';
+$_['error_minimum']             = 'Мінімальне замовлення для Login and Pay with Amazon is %s!';
