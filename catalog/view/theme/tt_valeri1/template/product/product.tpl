@@ -14,7 +14,7 @@
     <?php if ($column_left && $column_right) { ?>
     <?php $class = 'col-sm-6'; ?>
     <?php } elseif ($column_left || $column_right) { ?>
-    <?php $class = 'col-sm-9'; ?>
+    <?php $class = 'col-sm-5'; ?>
     <?php } else { ?>
     <?php $class = 'col-sm-12'; ?>
     <?php } ?>
@@ -23,39 +23,39 @@
         <?php if ($column_left || $column_right) { ?>
         <?php $class = 'col-sm-6'; ?>
         <?php } else { ?>
-        <?php $class = 'col-sm-5'; ?>
+        <?php $class = 'col-sm-6'; ?>
         <?php } ?>
-        <div class="<?php echo $class; ?>">
-          <?php if ($thumb || $images) { ?>
-          <div class="thumbnails-image ">
-            <?php if ($thumb) { ?>
-              <a class="thumbnail" title="<?php echo $heading_title; ?>">
-              <img src="<?php echo $thumb; ?>" data-zoom-image="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" />
-              </a>
-            <?php } ?>
-          </div><!-- thumbnails-image -->
-        <?php if ($thumb) { ?>
-        <div class="row ">
-          <div class="wrapper-img-additional">
-            <div class="image-additional" id="gallery_01">
-              <a class="thumbnail" href="javascript:void(0);" data-image="<?php echo $thumb; ?>" data-zoom-image="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>">
-              <img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" />
-              </a>
-              <?php } ?>
-              <?php if ($images) { ?>
-              <?php foreach ($images as $image) { ?>
-              <a class="thumbnail" href="javascript:void(0);" data-image="<?php echo $image['thumb']; ?>" data-zoom-image="<?php echo $image['popup']; ?>" title="<?php echo $heading_title; ?>"> <img  src="<?php echo $image['thumb']; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a>
-              <?php } ?>
-              <?php } ?>
-            </div>
-          </div>
-        </div><!-- end wrapper-img-additional -->
-        <?php } ?>
-        </div>
+                              <div class="<?php echo $class; ?> left-image-block">
+                                <?php if ($thumb || $images) { ?>
+                                <div class="thumbnails-image ">
+                                  <?php if ($thumb) { ?>
+                                    <a class="thumbnail" title="<?php echo $heading_title; ?>">
+                                    <img src="<?php echo $thumb; ?>" data-zoom-image="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" />
+                                    </a>
+                                  <?php } ?>
+                                </div><!-- thumbnails-image -->
+                              <?php if ($thumb) { ?>
+                              <div class="row ">
+                                <div class="wrapper-img-additional">
+                                  <div class="image-additional" id="gallery_01">
+                                    <a class="thumbnail" href="javascript:void(0);" data-image="<?php echo $thumb; ?>" data-zoom-image="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>">
+                                    <img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" />
+                                    </a>
+                                    <?php } ?>
+                                    <?php if ($images) { ?>
+                                    <?php foreach ($images as $image) { ?>
+                                    <a class="thumbnail" href="javascript:void(0);" data-image="<?php echo $image['thumb']; ?>" data-zoom-image="<?php echo $image['popup']; ?>" title="<?php echo $heading_title; ?>"> <img  src="<?php echo $image['thumb']; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a>
+                                    <?php } ?>
+                                    <?php } ?>
+                                  </div>
+                                </div>
+                              </div><!-- end wrapper-img-additional -->
+                              <?php } ?>
+                              </div>
         <?php if ($column_left || $column_right) { ?>
         <?php $class = 'col-sm-6'; ?>
         <?php } else { ?>
-        <?php $class = 'col-sm-7'; ?>
+        <?php $class = 'col-sm-6'; ?>
         <?php } ?>
         <div class="<?php echo $class; ?>">
           <h1 class="product-name product-name-product"><?php echo $heading_title; ?></h1>

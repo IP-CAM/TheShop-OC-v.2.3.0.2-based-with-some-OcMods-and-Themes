@@ -21,7 +21,7 @@
                           $a = ($product['special2']);
                           $b = ($product['price2']);
                           $c = round(($a-$b)/$b,2)*100;
-                        }?> 
+                        }?>
                         <?php if($product['special']){?>
                           <div class="sale-percent"><?php echo $c;?>%</div>
                         <?php }?>
@@ -36,7 +36,7 @@
                           $a = ($product['special2']);
                           $b = ($product['price2']);
                           $c = round(($a-$b)/$b,2)*100;
-                        }?> 
+                        }?>
                         <?php if($product['special']){?>
                         <div class="sale-percent"><?php echo $c;?>%</div>
                         <?php }?>
@@ -53,20 +53,20 @@
                               <?php endif; ?> -->
                               <img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>" />
                           </div>
-                      </a> 
-                      
+                      </a>
+
                       <div class="actions">
                           <?php if($config_slide['f_show_addtocart']) { ?>
                               <button class="button btn-cart" type="button"  title="<?php echo $button_cart; ?>" onclick="cart.add('<?php echo $product['product_id']; ?>');">
                               <i class="fa fa-shopping-cart"></i>
                               </button>
                           <?php } ?>
-                          
+
                           <button class="btn-wishlist" type="button"  title="<?php echo   $button_wishlist; ?>"  onclick="wishlist.add('<?php echo $product['product_id']; ?>');">
-                          <i class="fa fa-heart-o"></i>      
+                          <i class="fa fa-heart-o"></i>
                           </button>
-                          <button class="btn-compare" type="button"  title="<?php echo $button_compare; ?>"  onclick="compare.add('<?php echo $product['product_id']; ?>');">    
-                          <i class="fa fa-refresh"></i>    
+                          <button class="btn-compare" type="button"  title="<?php echo $button_compare; ?>"  onclick="compare.add('<?php echo $product['product_id']; ?>');">
+                          <i class="fa fa-refresh"></i>
                           </button>
                           <div class="add-to-links btn-quickviews">
                           </div><!-- add-to-links -->
@@ -91,7 +91,7 @@
                           </div>
                           <?php } ?>
                       <?php } ?>
-                      
+
                       <?php if($config_slide['f_show_des']) { ?>
                           <div class="des"><?php echo $product['description']; ?></div>
                       <?php } ?>

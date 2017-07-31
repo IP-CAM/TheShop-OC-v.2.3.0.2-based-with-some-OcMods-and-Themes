@@ -27,7 +27,7 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE IF NOT EXISTS `oc_address` (
-  `address_id` int(11) NOT NULL,
+  `address_id` int(11) NOT NULL ,
   `customer_id` int(11) NOT NULL,
   `firstname` varchar(32) NOT NULL,
   `lastname` varchar(32) NOT NULL,
@@ -3042,7 +3042,7 @@ INSERT INTO `oc_layout_module` (`layout_module_id`, `layout_id`, `code`, `positi
 --
 
 CREATE TABLE IF NOT EXISTS `oc_layout_route` (
-  `layout_route_id` int(11) NOT NULL,
+  `layout_route_id` int(11) NOT NULL ,
   `layout_id` int(11) NOT NULL,
   `store_id` int(11) NOT NULL,
   `route` varchar(64) NOT NULL
@@ -5969,7 +5969,7 @@ INSERT INTO `oc_upload` (`upload_id`, `name`, `filename`, `code`, `date_added`) 
 --
 
 CREATE TABLE IF NOT EXISTS `oc_url_alias` (
-  `url_alias_id` int(11) NOT NULL,
+  `url_alias_id` int(11) NOT NULL auto_increment,
   `query` varchar(255) NOT NULL,
   `keyword` varchar(255) NOT NULL
 ) ENGINE=MyISAM AUTO_INCREMENT=847 DEFAULT CHARSET=utf8;

@@ -3,16 +3,16 @@
 $(document).ready(function() {
 
     $(".tab_content").hide();
-    $(".tab_content:first").show(); 
+    $(".tab_content:first").show();
 
     $("ul.tabs li").click(function() {
         $("ul.tabs li").removeClass("active");
         $(this).addClass("active");
         $(".tab_content").hide();
         $(".tab_content").removeClass("animate1 <?php echo $tab_effect;?>");
-        var activeTab = $(this).attr("rel"); 
+        var activeTab = $(this).attr("rel");
         $("#"+activeTab) .addClass("animate1 <?php echo $tab_effect;?>");
-        $("#"+activeTab).fadeIn(); 
+        $("#"+activeTab).fadeIn();
     });
 });
 
@@ -21,15 +21,17 @@ $(document).ready(function() {
     <div class="title-product-tabs">
         <div class="containers">
             <h2><?php echo $title; ?></h2>
+            <h3 class='slider_tab_subtitle'>hello world </h3>
             <div class="title-tab">
-                <ul class="tabs"> 
+                <ul class="tabs">
                 <?php $count=0; ?>
                 <?php foreach($productTabslider as $productTab ){ ?>
                     <li rel="tab_<?php echo $productTab['id']; ?>"  >
                         <h3 class="tab_<?php echo $productTab['id']; ?>"><?php echo $productTab['name']; ?></h3>
+
                     </li>
                         <?php $count= $count+1; ?>
-                <?php } ?>  
+                <?php } ?>
                 </ul>
             </div>
         </div>
@@ -56,7 +58,7 @@ $(document).ready(function() {
                           $a = ($product['special2']);
                           $b = ($product['price2']);
                           $c = round(($a-$b)/$b,2)*100;
-                        }?> 
+                        }?>
                         <?php if($product['special']){?>
                           <div class="sale-percent"><?php echo $c;?>%</div>
                         <?php }?>
@@ -71,7 +73,7 @@ $(document).ready(function() {
                           $a = ($product['special2']);
                           $b = ($product['price2']);
                           $c = round(($a-$b)/$b,2)*100;
-                        }?> 
+                        }?>
                         <?php if($product['special']){?>
                           <div class="sale-percent"><?php echo $c;?>%</div>
                         <?php }?>
@@ -88,23 +90,23 @@ $(document).ready(function() {
                               <?php endif; ?> -->
                                                 <img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>" />
                                             </div>
-                                        </a> 
-                                        
+                                        </a>
+
                                         <div class="actions">
                                             <?php if($config_slide['f_show_addtocart']) { ?>
                                                 <button class="button btn-cart" type="button"  title="<?php echo $button_cart; ?>" onclick="cart.add('<?php echo $product['product_id']; ?>');">
                                                 <i class="fa fa-shopping-cart"></i>
                                                 </button>
                                             <?php } ?>
-                                            
+
                                             <button class="btn-wishlist" type="button"  title="<?php echo   $button_wishlist; ?>"  onclick="wishlist.add('<?php echo $product['product_id']; ?>');">
-                                            <i class="fa fa-heart-o"></i>      
+                                            <i class="fa fa-heart-o"></i>
                                             </button>
-                                            <button class="btn-compare" type="button"  title="<?php echo $button_compare; ?>"  onclick="compare.add('<?php echo $product['product_id']; ?>');">    
-                                            <i class="fa fa-refresh"></i>    
-                                            </button>
-                                            <div class="add-to-links btn-quickviews">
-                                            </div><!-- add-to-links -->
+                                            <!--<button class="btn-compare" type="button"  title="<?php echo $button_compare; ?>"  onclick="compare.add('<?php echo $product['product_id']; ?>');">
+                                            <i class="fa fa-refresh"></i>
+                                            </button>-->
+                                            <!--<div class="add-to-links btn-quickviews">
+                                            </div>--><!-- add-to-links -->
                                         </div><!-- actions -->
                                         <?php if (isset($product['rating'])) { ?>
                                         <div class="rating"><img src="catalog/view/theme/tt_valeri1/image/stars-<?php echo $product['rating']; ?>.png" alt="#" /></div>
@@ -126,7 +128,7 @@ $(document).ready(function() {
                                             </div>
                                             <?php } ?>
                                         <?php } ?>
-                                        
+
                                         <?php if($config_slide['f_show_des']) { ?>
                                             <div class="des"><?php echo $product['description']; ?></div>
                                         <?php } ?>
@@ -145,7 +147,7 @@ $(document).ready(function() {
     </div><!-- .tab_container -->
 </div>
 <script type="text/javascript">
-$(document).ready(function() { 
+$(document).ready(function() {
  $(".product-tabs-container-slider .tabs li:first").addClass("active");
   $(".owl-demo-tabproduct").owlCarousel({
     autoPlay: <?php if($config_slide['autoplay']) { echo 'true' ;} else { echo 'false'; } ?>,
@@ -155,9 +157,9 @@ $(document).ready(function() {
     paginationNumbers : true,
     pagination : <?php if($config_slide['f_show_ctr']) { echo 'true' ;} else { echo 'false';} ?>,
     stopOnHover : false,
-    itemsDesktop : [1199,3], 
-    itemsDesktopSmall : [991,2], 
-    itemsTablet: [768,2], 
+    itemsDesktop : [1199,3],
+    itemsDesktopSmall : [991,2],
+    itemsTablet: [768,2],
     itemsMobile : [479,1]
   });
 });

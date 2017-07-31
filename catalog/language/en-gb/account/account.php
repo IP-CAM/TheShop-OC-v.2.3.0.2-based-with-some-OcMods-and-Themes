@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']      = 'My Account';
+$_['heading_title']      = 'Мій кабінет';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_my_account']    = 'My Account';
-$_['text_my_orders']     = 'My Orders';
-$_['text_my_newsletter'] = 'Newsletter';
-$_['text_edit']          = 'Edit your account information';
+$_['text_account']       = 'кабінет';
+$_['text_my_account']    = 'мій кабінет';
+$_['text_my_orders']     = 'мої замовлення';
+$_['text_my_newsletter'] = 'новини';
+$_['text_edit']          = 'редагувати особисту інформацію';
 $_['text_password']      = 'Change your password';
 $_['text_address']       = 'Modify your address book entries';
 $_['text_credit_card']   = 'Manage Stored Credit Cards';

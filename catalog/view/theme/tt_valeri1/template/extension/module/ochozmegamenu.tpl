@@ -20,6 +20,7 @@
 		<div class="nav2">
 			<div id="pt_custommenu" class="pt_custommenu ">
 			<?php echo $hozmegamenu; ?>
+
 			</div>
 		</div>
 	</div>
