@@ -3,8 +3,8 @@
 $_['heading_title']           = 'Recurring Payments';
 
 // Text
-$_['text_account']            = 'Обліковий Запис';
-$_['text_recurring']          = 'Recurring Інформація по оплаті';
+$_['text_account']            = 'Профіль';
+$_['text_recurring']          = 'Інформація по оплаті';
 $_['text_recurring_detail']   = 'Деталі повторної оплати';
 $_['text_order_recurring_id'] = 'ID повторної оплати:';
 $_['text_date_added']         = 'Дата додавання:';

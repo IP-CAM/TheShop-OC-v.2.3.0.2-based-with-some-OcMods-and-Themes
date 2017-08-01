@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']        = 'Реєструвати обліковий запис';
+$_['heading_title']        = 'Реєструвати профіль';
 
 // Text
-$_['text_account']         = 'Обліковий Запис';
+$_['text_account']         = 'Профіль';
 $_['text_register']        = 'Реєстрація';
-$_['text_account_already'] = 'Якщо у Вас уже є обліковий запис, увійдіть через<a href="%s">сторінку входу</a>.';
+$_['text_account_already'] = 'Якщо у Вас уже є профіль, увійдіть через<a href="%s">сторінку входу</a>.';
 $_['text_your_details']    = 'Ваші персональні дані';
 $_['text_your_address']    = 'Ваша адреса';
 $_['text_newsletter']      = 'Розсилка';

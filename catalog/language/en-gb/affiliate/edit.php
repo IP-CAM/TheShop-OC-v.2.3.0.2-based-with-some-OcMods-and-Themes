@@ -3,11 +3,11 @@
 $_['heading_title']     = 'Облікові дані';
 
 // Text
-$_['text_account']      = 'Обліковий Запис';
+$_['text_account']      = 'Профіль';
 $_['text_edit']         = 'Редагувати дані';
 $_['text_your_details'] = 'Ваші персональні дані';
 $_['text_your_address'] = 'Ваша адреса';
-$_['text_success']      = 'Ваш обліковий запис успішно оновлено';
+$_['text_success']      = 'Ваш профіль успішно оновлено';
 
 // Entry
 $_['entry_firstname']   = 'Ім\'я';

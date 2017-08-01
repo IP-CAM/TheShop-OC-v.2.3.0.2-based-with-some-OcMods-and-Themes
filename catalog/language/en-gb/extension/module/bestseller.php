@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = '<tcnctkthb';
+$_['heading_title'] = 'Бестселари';
 
 // Text
 $_['text_tax']      = 'Ex Tax:';

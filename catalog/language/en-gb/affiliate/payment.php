@@ -3,7 +3,7 @@
 $_['heading_title']             = 'Спосіб оплати';
 
 // Text
-$_['text_account']              = 'Обліковий Запис';
+$_['text_account']              = 'Профіль';
 $_['text_payment']              = 'Оплата';
 $_['text_your_payment']         = 'Інформація по оплаті';
 $_['text_your_password']        = 'Ваш пароль';

@@ -8,7 +8,7 @@ $_['column_description'] = 'Опис';
 $_['column_amount']      = 'Кількість (%s)';
 
 // Text
-$_['text_account']       = 'Обліковий Запис';
+$_['text_account']       = 'Профіль';
 $_['text_transaction']   = 'Ваші операції';
 $_['text_total']         = 'Ваш баланс:';
 $_['text_empty']         = 'У Вас ще немає операцій';

@@ -14,6 +14,6 @@ $_['text_transaction']   = 'Операції';
 $_['text_download']      = 'Завантаження';
 $_['text_logout']        = 'Вийти';
 $_['text_checkout']      = 'Перевірка';
-$_['text_search']        = 'Search';
+$_['text_search']        = 'Пошук';
 $_['text_all']           = 'Показати все';
 $_['text_buytheme']      = 'купити тему';

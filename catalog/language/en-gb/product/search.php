@@ -1,21 +1,21 @@
 <?php
 // Heading
-$_['heading_title']     = 'Search';
-$_['heading_tag']		= 'Tag - ';
+$_['heading_title']     = 'Пошук';
+$_['heading_tag']		= 'Тег - ';
 
 // Text
-$_['text_search']       = 'Products meeting the search criteria';
-$_['text_keyword']      = 'Keywords';
-$_['text_category']     = 'All Categories';
-$_['text_sub_category'] = 'Search in subcategories';
-$_['text_empty']        = 'There is no product that matches the search criteria.';
-$_['text_quantity']     = 'Qty:';
+$_['text_search']       = 'Товар відповідає критеріям пошуку';
+$_['text_keyword']      = 'Ключові слова';
+$_['text_category']     = 'Всі категорії';
+$_['text_sub_category'] = 'Шукати в підкатегоріях';
+$_['text_empty']        = 'Жоден товар не відповідає критеріям пошуку.';
+$_['text_quantity']     = 'К-сть:';
 $_['text_manufacturer'] = 'Бренд:';
 $_['text_model']        = 'Код товару:';
 $_['text_points']       = 'Бонусні бали:';
 $_['text_price']        = 'Ціна:';
 $_['text_tax']          = 'Ex Tax:';
-$_['text_reviews']      = 'Based on %s reviews.';
+$_['text_reviews']      = 'опираючись на %s відгуків';
 $_['text_compare']      = 'Порівняння товару (%s)';
 $_['text_sort']         = 'Сортувати за:';
 $_['text_default']      = 'По замовчуванню';
@@ -27,8 +27,8 @@ $_['text_rating_asc']   = 'Рейтинг (найнижчий)';
 $_['text_rating_desc']  = 'Рейтинг (найвижчий)';
 $_['text_model_asc']    = 'Модель (А - Я)';
 $_['text_model_desc']   = 'Модель (Я - А)';
-$_['text_limit']        = 'Show:';
+$_['text_limit']        = 'Показати:';
 
 // Entry
-$_['entry_search']      = 'Search Criteria';
-$_['entry_description'] = 'Search in product descriptions';
+$_['entry_search']      = 'Критерії пошуку';
+$_['entry_description'] = 'Шукати в описі товару';

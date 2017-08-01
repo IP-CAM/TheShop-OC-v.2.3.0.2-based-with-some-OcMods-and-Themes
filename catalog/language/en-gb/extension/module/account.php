@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']    = 'Обліковий Запис';
+$_['heading_title']    = 'Профіль';
 
 // Text
 $_['text_register']    = 'Реєстрація';
 $_['text_login']       = 'Увійти';
 $_['text_logout']      = 'Вийти';
 $_['text_forgotten']   = 'Забули пароль';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
+$_['text_account']     = 'Мій профіль';
+$_['text_edit']        = 'Редагувати профіль';
 $_['text_password']    = 'Пароль';
 $_['text_address']     = 'Адреса Book';
 $_['text_wishlist']    = 'Вибрані';

@@ -1,6 +1,6 @@
 <?php
 // Locale
-$_['code']                  = 'en';
+$_['code']                  = 'укр';
 $_['direction']             = 'ltr';
 $_['date_format_short']     = 'd/m/Y';
 $_['date_format_long']      = 'l dS F Y';
@@ -40,10 +40,10 @@ $_['button_filter']         = 'Уточнити пошук';
 $_['button_new_address']    = 'Нова адреса';
 $_['button_change_address'] = 'Змінити адресу';
 $_['button_reviews']        = 'Огляди';
-$_['button_write']          = 'Написати огляд';
+$_['button_write']          = 'Написати відгук';
 $_['button_login']          = 'Увійти';
 $_['button_update']         = 'Оновити';
-$_['button_remove']         = 'ВИдалити';
+$_['button_remove']         = 'Видалити';
 $_['button_reorder']        = 'Перезамовити';
 $_['button_return']         = 'Повернутися';
 $_['button_shopping']       = 'продовжити покупки';

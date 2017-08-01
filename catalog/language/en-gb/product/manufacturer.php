@@ -24,4 +24,4 @@ $_['text_rating_asc']   = 'Рейтинг (найнижчий)';
 $_['text_rating_desc']  = 'Рейтинг (найвижчий)';
 $_['text_model_asc']    = 'Модель (А - Я)';
 $_['text_model_desc']   = 'Модель (Я - А)';
-$_['text_limit']        = 'Show:';
+$_['text_limit']        = 'Показати:';

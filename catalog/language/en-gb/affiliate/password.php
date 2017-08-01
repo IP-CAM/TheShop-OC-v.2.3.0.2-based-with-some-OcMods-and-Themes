@@ -3,7 +3,7 @@
 $_['heading_title']  = 'Change Password';
 
 // Text
-$_['text_account']   = 'Обліковий Запис';
+$_['text_account']   = 'Профіль';
 $_['text_password']  = 'Ваш пароль';
 $_['text_success']   = 'Ви успішно оновили свій пароль';
 

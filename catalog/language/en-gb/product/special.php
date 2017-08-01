@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']     = 'Special Offers';
+$_['heading_title']     = 'Спеціальна пропозиція';
 
 // Text
-$_['text_empty']        = 'There are no special offer products to list.';
-$_['text_quantity']     = 'Qty:';
+$_['text_empty']        = 'Немає жодного товару зі спеціальними пропозиціями.';
+$_['text_quantity']     = 'К-сть:';
 $_['text_manufacturer'] = 'Бренд:';
 $_['text_model']        = 'Код товару:';
 $_['text_points']       = 'Бонусні бали:';
@@ -21,4 +21,4 @@ $_['text_rating_asc']   = 'Рейтинг (найнижчий)';
 $_['text_rating_desc']  = 'Рейтинг (найвижчий)';
 $_['text_model_asc']    = 'Модель (А - Я)';
 $_['text_model_desc']   = 'Модель (Я - А)';
-$_['text_limit']        = 'Show:';
+$_['text_limit']        = 'Показати:';

@@ -3,8 +3,8 @@
 $_['heading_title']  = 'Reset your password';
 
 // Text
-$_['text_account']   = 'Обліковий Запис';
-$_['text_password']  = 'ВВедіть новий пароль';
+$_['text_account']   = 'Профіль';
+$_['text_password']  = 'Введіть новий пароль';
 $_['text_success']   = 'Ви успішно оновили свій пароль';
 
 // Entry

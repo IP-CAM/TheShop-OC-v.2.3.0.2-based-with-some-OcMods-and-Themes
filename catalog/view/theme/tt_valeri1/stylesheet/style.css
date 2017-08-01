@@ -772,8 +772,24 @@ h2.product-name a:after{
     color: #999!important;
 }
 
-#content.col-sm-6{
+.products .actions button .fa, .item-inner .actions button.btn-quickview .fa{
+    line-height: 30px;
+}
 
+
+.filter-attribute-container label{
+    width: 90%;
+    height: 10px;
+    color: #a3a3a3;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-align: right;
+}
+.ui-widget-header{
+    background: grey!important;
 }
 /*.left-image-block{*/
     /*border:1px solid red !important;*/
@@ -824,11 +840,10 @@ h2.product-name a:after{
 
 /*}*/
 
-.quickview-container{
-    height:600px;
+/*.quickview-container{*/
+    /*height:600px;*/
 
 
-}
+/*}*/
 
 /*goods preview********************************************/
-.wrapper-img-additional

@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['button_read_more']         		 = 'більше ...';
+$_['button_read_more']         		 = 'Більше ...';
 $_['text_empty']           			 = 'НЕмає нічого';
 $_['text_headingtitle']           			 = 'Найновіше з нашого блогу';
 $_['text_blog'] = 'Blog';
