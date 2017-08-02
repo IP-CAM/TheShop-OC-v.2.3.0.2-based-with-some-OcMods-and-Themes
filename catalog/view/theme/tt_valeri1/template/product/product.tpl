@@ -60,14 +60,7 @@
         <div class="<?php echo $class; ?>">
           <h1 class="product-name product-name-product"><?php echo $heading_title; ?></h1>
           <?php if ($price) { ?>
-          <div class="product-price">
-            <?php if (!$special) { ?>
-              <h2 class="price"><?php echo $price; ?></h2>
-            <?php } else { ?>
-              <h2 class="price-new"><?php echo $special; ?></h2>
-              <span class="price-old"><?php echo $price; ?></span>
-            <?php } ?>
-          </div>
+
           <?php } ?>
           <?php if ($review_status) { ?>
           <div class="rating rating-product">
@@ -84,11 +77,11 @@
           <?php } ?> <!-- end-rating -->
          
           <div class="short-description-content">
-            <p class="availability in-stock">
+            <!--<p class="availability in-stock">
               <?php echo $text_stock; ?> <span style="font-weight:bold;<?php echo ($quantity > 0) ? 'color:#66aa00' : 'color:#ff0000'; ?>"><?php echo $stock; ?></span>
-            </p>
+            </p>-->
             <p class="short-description"><?php echo $shortdescription; ?></p> 
-            <hr>
+           <!-- <hr>-->
           </div> <!-- end-description -->
 
           
@@ -118,9 +111,9 @@
               <div id="input-option<?php echo $option['product_option_id']; ?>">
                 <?php foreach ($option['product_option_value'] as $option_value) { ?>
                 <div class="radio">
-                  <label>
-                    <input type="radio" name="option[<?php echo $option['product_option_id']; ?>]" value="<?php echo $option_value['product_option_value_id']; ?>" />
-                    <?php echo $option_value['name']; ?>
+
+                    <input type="radio" id="radiobutton<?php echo $option_value['product_option_value_id']; ?>" name="option[<?php echo $option['product_option_id']; ?>]" value="<?php echo $option_value['product_option_value_id']; ?>" />
+                  <label for="radiobutton<?php echo $option_value['product_option_value_id']; ?>"><?php echo $option_value['name']; ?>
                     <?php if ($option_value['price']) { ?>
                     (<?php echo $option_value['price_prefix']; ?><?php echo $option_value['price']; ?>)
                     <?php } ?>
@@ -129,6 +122,7 @@
                 <?php } ?>
               </div>
             </div>
+            <script type="text/javascript"></script>
             <?php } ?>
             <?php if ($option['type'] == 'checkbox') { ?>
             <div class="form-group<?php echo ($option['required'] ? ' required' : ''); ?>">
@@ -154,13 +148,13 @@
               <div id="input-option<?php echo $option['product_option_id']; ?>">
                 <?php foreach ($option['product_option_value'] as $option_value) { ?>
                 <div class="radio">
-                  <label>
+
                     <input type="radio" name="option[<?php echo $option['product_option_id']; ?>]" value="<?php echo $option_value['product_option_value_id']; ?>" />
                     <img src="<?php echo $option_value['image']; ?>" alt="<?php echo $option_value['name'] . ($option_value['price'] ? ' ' . $option_value['price_prefix'] . $option_value['price'] : ''); ?>" class="img-thumbnail" /> <?php echo $option_value['name']; ?>
                     <?php if ($option_value['price']) { ?>
                     (<?php echo $option_value['price_prefix']; ?><?php echo $option_value['price']; ?>)
                     <?php } ?>
-                  </label>
+
                 </div>
                 <?php } ?>
               </div>
@@ -229,6 +223,17 @@
               <div class="help-block" id="recurring-description"></div>
             </div>
             <?php } ?>
+
+
+            <div class="product-price">
+              <span>Ціна</span>
+              <?php if (!$special) { ?>
+              <h2 class="price"><?php echo $price; ?></h2>
+              <?php } else { ?>
+              <h2 class="price-new"><?php echo $special; ?></h2>
+              <span class="price-old"><?php echo $price; ?></span>
+              <?php } ?>
+            </div>
             <div class="form-group">
               <?php if ($minimum >= 2) { ?>
                 <div class="alert alert-info alert-minimum-qty"><i class="fa fa-info-circle"></i> <?php echo $text_minimum; ?></div>
@@ -244,6 +249,7 @@
                   
                   <input type="hidden" name="product_id" value="<?php echo $product_id; ?>" />
               </div>
+
               <div class="box-button button-group button-group-product actions">
                
                 <button class="button btn-cart" id="button-cart" type="button"  title="<?php echo $button_cart; ?>">
@@ -258,8 +264,12 @@
                  
                 </button>
               </div><!-- end-button -->
+              <script>
+
+              </script>
               <script type="text/javascript">
                 $(document).ready(function() {
+
                   var minimum = <?php echo $minimum; ?>;
                     $("#input-quantity").change(function(){
                     if ($(this).val() < minimum) {
@@ -633,6 +643,7 @@ $('#button-review').on('click', function() {
 });
 
 $(document).ready(function() {
+
   $('.thumbnails').magnificPopup({
     type:'image',
     delegate: 'a',
@@ -640,6 +651,7 @@ $(document).ready(function() {
       enabled:true
     }
   });
+
 });
 
 //view-related
@@ -660,17 +672,23 @@ $(".view-related").owlCarousel({
   });
 
 //image-additional
-$(".image-additional").owlCarousel({
+$(".image-additional").slick({
     navigation:true,
-    pagination: false,
-    slideSpeed : 1000,
-    goToFirstSpeed : 1500,
-    autoHeight : true,
-    items :4, //10 items above 1000px browser width
-    itemsDesktop : [1199,4], //5 items between 1000px and 901px
-    itemsDesktopSmall : [991,3], //4.3 betweem 900px and 601px
-    itemsTablet: [767,3], //2 items between 600 and 0
-    itemsMobile : [479,2] // itemsMobile disabled - inherit from itemsTablet option
+    vertical:true,
+    infinite: true,
+    slidesToShow: 3,
+    slidesToScroll:1,
+    verticalSwiping:true,
+    arrows: false,
+//    pagination: false,
+//    slideSpeed : 1000,
+//    goToFirstSpeed : 1500,
+//    autoHeight : true,
+//    items :4, //10 items above 1000px browser width
+//    itemsDesktop : [1199,4], //5 items between 1000px and 901px
+//    itemsDesktopSmall : [991,3], //4.3 betweem 900px and 601px
+//    itemsTablet: [767,3], //2 items between 600 and 0
+//    itemsMobile : [479,2] // itemsMobile disabled - inherit from itemsTablet option
   }); 
 
 //--></script>

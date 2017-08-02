@@ -101,14 +101,15 @@
                     <button class="button btn-cart" type="button"  title="<?php echo $button_cart; ?>" onclick="cart.add('<?php echo $product['product_id']; ?>');">
                         <i class="fa fa-shopping-cart"></i> 
                     </button>
+                        <div class="add-to-links btn-quickviews">
+                        </div>
                     <button class="btn-wishlist" type="button"  title="<?php echo $button_wishlist; ?>"  onclick="wishlist.add('<?php echo $product['product_id']; ?>');">
                             <i class="fa fa-heart-o"></i>
                     </button>
-                    <button class="btn-compare" type="button"  title="<?php echo $button_compare; ?>"  onclick="compare.add('<?php echo $product['product_id']; ?>');">
+                   <!-- <button class="btn-compare" type="button"  title="<?php echo $button_compare; ?>"  onclick="compare.add('<?php echo $product['product_id']; ?>');">
                             <i class="fa fa-refresh"></i> 
-                    </button>
-                     <div class="add-to-links btn-quickviews">
-                    </div>
+                    </button>-->
+
                 </div>
 
                 <?php if (isset($product['rating'])) { ?>

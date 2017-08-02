@@ -660,7 +660,7 @@ $(".view-related").owlCarousel({
   });
 
 //image-additional
-$(".image-additional").owlCarousel({
+$(".image-additional").slick({
     navigation:true,
     pagination: false,
     slideSpeed : 1000,

@@ -15,7 +15,7 @@
         <?php endforeach; ?>
         <?php if($is_filter): ?>
             <div class="list-group-item filter-clear-all">
-                <a class="clear-filter" href="javascript:void(0);" onclick="oclayerednavigationajax.filter('<?php echo $clear_action ?>')">Clear all</a>
+                <a class="clear-filter" href="javascript:void(0);" onclick="oclayerednavigationajax.filter('<?php echo $clear_action ?>')">Очистити все</a>
             </div>
         <?php endif; ?>
     </div>

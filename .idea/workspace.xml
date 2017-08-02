@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fce8ae2-9597-49a3-93a7-e8637cb3f4a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/product/category.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/product/category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/product/manufacturer.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/product/manufacturer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/product/search.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/product/search.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/language/en-gb/product/special.php" afterPath="$PROJECT_DIR$/catalog/language/en-gb/product/special.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/javascript/common.js" afterPath="$PROJECT_DIR$/catalog/view/javascript/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/1.html" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/oclayerednavigation/oclayerednavigation.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/oclayerednavigation/oclayerednavigation.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/oclayerednavigation/oclayerednavigationfilter.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/oclayerednavigation/oclayerednavigationfilter.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/category.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/category.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/product/product.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/product/product.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/logs/error.log" afterPath="$PROJECT_DIR$/system/storage/logs/error.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +44,236 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="product.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="107" column="54" lean-forward="true" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
+              <folding>
+                <marker date="1501709088580" expanded="false" signature="4443:4526" ph="..." />
+                <marker date="1501709088580" expanded="true" signature="28117:28124" ph="×" />
+                <marker date="1501709088580" expanded="true" signature="28994:29008" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="68" column="99" lean-forward="true" selection-start-line="68" selection-start-column="99" selection-end-line="68" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/javascript/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="915">
+              <caret line="56" column="12" lean-forward="false" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+              <folding>
+                <marker date="1501697562517" expanded="true" signature="6019:6026" ph="×" />
+                <marker date="1501697562517" expanded="true" signature="9992:9999" ph="×" />
+                <marker date="1501697562517" expanded="true" signature="10877:10884" ph="×" />
+                <marker date="1501697562517" expanded="true" signature="11791:11798" ph="×" />
+                <marker date="1501697562517" expanded="true" signature="14634:14640" ph=" " />
+                <marker date="1501697562517" expanded="true" signature="14640:14646" ph=" " />
+                <marker date="1501697562517" expanded="true" signature="14646:14652" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="1058" column="16" lean-forward="false" selection-start-line="1058" selection-start-column="16" selection-end-line="1058" selection-end-column="16" />
+              <folding>
+                <element signature="e#18#598#0" expanded="false" />
+                <element signature="e#600#681#0" expanded="false" />
+                <element signature="e#650#679#0" expanded="false" />
+                <element signature="e#683#788#0" expanded="false" />
+                <element signature="e#756#786#0" expanded="false" />
+                <element signature="e#803#1267#0" expanded="false" />
+                <element signature="e#1269#1345#0" expanded="false" />
+                <element signature="e#1314#1343#0" expanded="false" />
+                <element signature="e#1347#1446#0" expanded="false" />
+                <element signature="e#1415#1444#0" expanded="false" />
+                <element signature="e#1458#1704#0" expanded="false" />
+                <element signature="e#1714#1779#0" expanded="false" />
+                <element signature="e#1781#1962#0" expanded="false" />
+                <element signature="e#1821#1960#0" expanded="false" />
+                <element signature="e#1964#2168#0" expanded="false" />
+                <element signature="e#2027#2166#0" expanded="false" />
+                <element signature="e#2179#2237#0" expanded="false" />
+                <element signature="e#2248#2305#0" expanded="false" />
+                <element signature="e#2312#2374#0" expanded="false" />
+                <element signature="e#2394#2436#0" expanded="false" />
+                <element signature="e#2438#2520#0" expanded="false" />
+                <element signature="e#2488#2518#0" expanded="false" />
+                <element signature="e#2539#2584#0" expanded="false" />
+                <element signature="e#2586#2669#0" expanded="false" />
+                <element signature="e#2635#2667#0" expanded="false" />
+                <element signature="e#2688#2773#0" expanded="false" />
+                <element signature="e#2775#2879#0" expanded="false" />
+                <element signature="e#2847#2877#0" expanded="false" />
+                <element signature="e#2894#3197#0" expanded="false" />
+                <element signature="e#3199#3465#0" expanded="false" />
+                <element signature="e#3244#3463#0" expanded="false" />
+                <element signature="e#3467#3570#0" expanded="false" />
+                <element signature="e#3535#3568#0" expanded="false" />
+                <element signature="e#3590#3872#0" expanded="false" />
+                <element signature="e#3874#3953#0" expanded="false" />
+                <element signature="e#3924#3951#0" expanded="false" />
+                <element signature="e#3973#4099#0" expanded="false" />
+                <element signature="e#4101#4288#0" expanded="false" />
+                <element signature="e#4151#4286#0" expanded="false" />
+                <element signature="e#4290#4416#0" expanded="false" />
+                <element signature="e#4363#4414#0" expanded="false" />
+                <element signature="e#4424#4499#0" expanded="false" />
+                <element signature="e#4501#4573#0" expanded="false" />
+                <element signature="e#4539#4571#0" expanded="false" />
+                <element signature="e#4591#4710#0" expanded="false" />
+                <element signature="e#4712#4794#0" expanded="false" />
+                <element signature="e#4760#4792#0" expanded="false" />
+                <element signature="e#4796#4901#0" expanded="false" />
+                <element signature="e#4867#4899#0" expanded="false" />
+                <element signature="e#4923#5205#0" expanded="false" />
+                <element signature="e#5207#5291#0" expanded="false" />
+                <element signature="e#5259#5289#0" expanded="false" />
+                <element signature="e#5319#5421#0" expanded="false" />
+                <element signature="e#5423#5563#0" expanded="false" />
+                <element signature="e#5504#5561#0" expanded="false" />
+                <element signature="e#5597#5643#0" expanded="false" />
+                <element signature="e#5664#5701#0" expanded="false" />
+                <element signature="e#5703#5783#0" expanded="false" />
+                <element signature="e#5754#5781#0" expanded="false" />
+                <element signature="e#5808#5926#0" expanded="false" />
+                <element signature="e#5952#6088#0" expanded="false" />
+                <element signature="e#6116#6263#0" expanded="false" />
+                <element signature="e#6265#6386#0" expanded="false" />
+                <element signature="e#6323#6384#0" expanded="false" />
+                <element signature="e#6411#6468#0" expanded="false" />
+                <element signature="e#6470#6607#0" expanded="false" />
+                <element signature="e#6525#6605#0" expanded="false" />
+                <element signature="e#6609#6717#0" expanded="false" />
+                <element signature="e#6687#6715#0" expanded="false" />
+                <element signature="e#6739#7421#0" expanded="false" />
+                <element signature="e#7423#7754#0" expanded="false" />
+                <element signature="e#7475#7752#0" expanded="false" />
+                <element signature="e#7764#7836#0" expanded="false" />
+                <element signature="e#7838#7962#0" expanded="false" />
+                <element signature="e#7878#7960#0" expanded="false" />
+                <element signature="e#7974#8034#0" expanded="false" />
+                <element signature="e#8043#8105#0" expanded="false" />
+                <element signature="e#8111#8171#0" expanded="false" />
+                <element signature="e#8188#8609#0" expanded="false" />
+                <element signature="e#8611#8722#0" expanded="false" />
+                <element signature="e#8658#8719#0" expanded="false" />
+                <element signature="e#8741#8775#0" expanded="false" />
+                <element signature="e#8860#8994#0" expanded="false" />
+                <element signature="e#9010#9053#0" expanded="false" />
+                <element signature="e#9069#9114#0" expanded="false" />
+                <element signature="e#9116#9194#0" expanded="false" />
+                <element signature="e#9162#9192#0" expanded="false" />
+                <element signature="e#9204#9241#0" expanded="false" />
+                <element signature="e#9263#9332#0" expanded="false" />
+                <element signature="e#9352#9371#0" expanded="false" />
+                <element signature="e#9386#9595#0" expanded="false" />
+                <element signature="e#9616#9650#0" expanded="false" />
+                <element signature="e#9664#9735#0" expanded="false" />
+                <element signature="e#9742#9802#0" expanded="false" />
+                <element signature="e#9820#9883#0" expanded="false" />
+                <element signature="e#9897#10031#0" expanded="false" />
+                <element signature="e#10046#10177#0" expanded="false" />
+                <element signature="e#10198#10232#0" expanded="false" />
+                <element signature="e#10249#10293#0" expanded="false" />
+                <element signature="e#10318#10404#0" expanded="false" />
+                <element signature="e#10435#10469#0" expanded="false" />
+                <element signature="e#10489#10524#0" expanded="false" />
+                <element signature="e#10534#10645#0" expanded="false" />
+                <element signature="e#10665#10697#0" expanded="false" />
+                <element signature="e#10699#10729#0" expanded="false" />
+                <element signature="e#10741#10792#0" expanded="false" />
+                <element signature="e#10805#11032#0" expanded="false" />
+                <element signature="e#11056#11127#0" expanded="false" />
+                <element signature="e#11156#11227#0" expanded="false" />
+                <element signature="e#11267#11287#0" expanded="false" />
+                <element signature="e#11301#11343#0" expanded="false" />
+                <element signature="e#11360#11446#0" expanded="false" />
+                <element signature="e#11481#11506#0" expanded="false" />
+                <element signature="e#11535#11566#0" expanded="false" />
+                <element signature="e#11601#11650#0" expanded="false" />
+                <element signature="e#11672#11722#0" expanded="false" />
+                <element signature="e#11749#11781#0" expanded="false" />
+                <element signature="e#11806#11859#0" expanded="false" />
+                <element signature="e#11868#11902#0" expanded="false" />
+                <element signature="e#11925#11946#0" expanded="false" />
+                <element signature="e#11971#12039#0" expanded="false" />
+                <element signature="e#12116#12162#0" expanded="false" />
+                <element signature="e#12177#12388#0" expanded="false" />
+                <element signature="e#12413#12644#0" expanded="false" />
+                <element signature="e#12667#12877#0" expanded="false" />
+                <element signature="e#12913#12990#0" expanded="false" />
+                <element signature="e#13007#13308#0" expanded="false" />
+                <element signature="e#13331#13361#0" expanded="false" />
+                <element signature="e#13377#13398#0" expanded="false" />
+                <element signature="e#13498#13610#0" expanded="false" />
+                <element signature="e#13623#13736#0" expanded="false" />
+                <element signature="e#13751#13802#0" expanded="false" />
+                <element signature="e#13834#13886#0" expanded="false" />
+                <element signature="e#13897#13935#0" expanded="false" />
+                <element signature="e#13962#14024#0" expanded="false" />
+                <element signature="e#14035#14075#0" expanded="false" />
+                <element signature="e#14092#14206#0" expanded="false" />
+                <element signature="e#14223#14281#0" expanded="false" />
+                <element signature="e#14296#14362#0" expanded="false" />
+                <element signature="e#14384#14404#0" expanded="false" />
+                <element signature="e#14425#14518#0" expanded="false" />
+                <element signature="e#14544#14563#0" expanded="false" />
+                <element signature="e#14590#14617#0" expanded="false" />
+                <element signature="e#14743#14765#0" expanded="false" />
+                <element signature="e#14788#15026#0" expanded="false" />
+                <element signature="e#15051#15137#0" expanded="false" />
+                <element signature="e#15181#15308#0" expanded="false" />
+                <element signature="e#15358#15467#0" expanded="false" />
+                <element signature="e#15487#15509#0" expanded="false" />
+                <element signature="e#15540#15560#0" expanded="false" />
+                <element signature="e#15575#15608#0" expanded="false" />
+                <element signature="e#15618#15651#0" expanded="false" />
+                <element signature="e#15663#15684#0" expanded="false" />
+                <element signature="e#15705#15735#0" expanded="false" />
+                <element signature="e#15763#15800#0" expanded="false" />
+                <element signature="e#15818#15844#0" expanded="false" />
+                <element signature="e#15868#15924#0" expanded="false" />
+                <element signature="e#15950#15971#0" expanded="false" />
+                <element signature="e#15984#16010#0" expanded="false" />
+                <element signature="e#16028#16059#0" expanded="false" />
+                <element signature="e#16138#16164#0" expanded="false" />
+                <element signature="e#16200#16407#0" expanded="false" />
+                <element signature="e#16427#16463#0" expanded="false" />
+                <element signature="e#18740#18762#0" expanded="false" />
+                <element signature="e#18776#18803#0" expanded="false" />
+                <element signature="e#18835#18940#0" expanded="false" />
+                <element signature="e#18979#19003#0" expanded="false" />
+                <element signature="e#19056#19094#0" expanded="false" />
+                <element signature="e#19142#19159#0" expanded="false" />
+                <element signature="e#19199#19265#0" expanded="false" />
+                <element signature="e#19319#19410#0" expanded="false" />
+                <element signature="e#19444#19463#0" expanded="false" />
+                <element signature="e#19499#19652#0" expanded="false" />
+                <element signature="e#19694#19748#0" expanded="false" />
+                <element signature="e#19783#19967#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,13 +285,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>'Reward Points</find>
-      <find>'Price</find>
-      <find>'Product Compare</find>
-      <find>'Sort By</find>
-      <find>'Default</find>
-      <find>'Name (A - Z)'</find>
-      <find>'Name (Z - A)'</find>
       <find>(Low &amp;gt; High)</find>
       <find>(High &amp;gt; Low)</find>
       <find>'Rating (Lowest)'</find>
@@ -82,9 +308,15 @@
       <find>'Search'</find>
       <find>'Qty:</find>
       <find>найвижчий</find>
+      <find>button</find>
+      <find>.zoomContainer</find>
+      <find>&gt;Clear all&lt;</find>
+      <find>gallery_01</find>
+      <find>hr&gt;</find>
+      <find>.image-additional</find>
+      <find>radio</find>
     </findStrings>
     <replaceStrings>
-      <replace>'Бонусні бали</replace>
       <replace>'Ціна</replace>
       <replace>'Порівняння товару</replace>
       <replace>'Сортувати за</replace>
@@ -114,16 +346,17 @@
       <replace>'Пошук'</replace>
       <replace>'К-сть:</replace>
       <replace>найвищий</replace>
+      <replace>&gt;Очистити все&lt;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1\stylesheet\opentheme</dir>
-      <dir>C:\server\OpenServer\domains\theshop.com\catalog\view</dir>
       <dir>C:\server\OpenServer\domains\theshop.com\catalog</dir>
       <dir>C:\server\OpenServer\domains\theshop.com</dir>
-      <dir>C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1</dir>
       <dir>C:\server\OpenServer\domains\theshop.com\catalog\view\theme</dir>
       <dir>C:\server\OpenServer\domains\theshop.com\catalog\language\en-gb</dir>
       <dir>C:\server\OpenServer\domains\theshop.com\catalog\language</dir>
+      <dir>C:\server\OpenServer\domains\theshop.com\catalog\view</dir>
+      <dir>C:\server\OpenServer\domains\theshop.com\catalog\view\theme\tt_valeri1</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -138,13 +371,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/google_hangouts.php" />
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/information.php" />
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/latest.php" />
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/occountdown.php" />
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/ocfeatureslider.php" />
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/ocslideshow.php" />
-        <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/octabproductslider.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/special.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/module/store.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/free.php" />
@@ -161,7 +387,6 @@
         <option value="$PROJECT_DIR$/catalog/language/en-gb/api/voucher.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/mail/customer.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/product/compare.php" />
-        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/citylink.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/auspost.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/extension/total/shipping.php" />
@@ -189,6 +414,14 @@
         <option value="$PROJECT_DIR$/catalog/language/en-gb/en-gb.php" />
         <option value="$PROJECT_DIR$/catalog/controller/extension/module/carousel.php" />
         <option value="$PROJECT_DIR$/catalog/language/en-gb/product/category.php" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/default/template/extension/module/oclayerednavigation/oclayerednavigation.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/oclayerednavigation/oclayerednavigation.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/category.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/product/product.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/javascript/common.js" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl" />
       </list>
     </option>
   </component>
@@ -200,10 +433,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="644" />
-    <option name="y" value="32" />
-    <option name="width" value="978" />
-    <option name="height" value="693" />
+    <option name="x" value="-7" />
+    <option name="width" value="1612" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -221,6 +453,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -231,6 +464,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="install" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -295,6 +542,116 @@
               <option name="myItemId" value="tt_valeri1" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tt_valeri1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tt_valeri1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extension" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tt_valeri1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -343,18 +700,12 @@
               <option name="myItemId" value="view" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
+              <option name="myItemId" value="theme" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
+              <option name="myItemId" value="tt_valeri1" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,37 +723,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
+              <option name="myItemId" value="view" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tool" />
+              <option name="myItemId" value="javascript" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -417,464 +742,11 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="product" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="information" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extension" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="total" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extension" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shipping" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extension" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="recurring" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extension" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="payment" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extension" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="openbay" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extension" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extension" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="credit_card" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extension" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="captcha" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="error" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="checkout" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en-gb" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="account" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theshop.com" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="catalog" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -987,7 +859,9 @@
       <workItem from="1501326426641" duration="591000" />
       <workItem from="1501327059198" duration="4595000" />
       <workItem from="1501342044009" duration="31507000" />
-      <workItem from="1501592022629" duration="22000" />
+      <workItem from="1501592022629" duration="7409000" />
+      <workItem from="1501666330681" duration="4876000" />
+      <workItem from="1501685453605" duration="18073000" />
     </task>
     <task id="LOCAL-00001" summary="footer+header under develop">
       <created>1500759793559</created>
@@ -1038,20 +912,28 @@
       <option name="project" value="LOCAL" />
       <updated>1501587776918</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="last commit finish with translation2">
+      <created>1501592055584</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1501592055584</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110543000" />
+    <option name="totallyTimeSpent" value="140879000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="644" y="32" width="978" height="693" extended-state="0" />
-    <editor active="false" />
+    <frame x="-7" y="0" width="1612" height="867" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5185185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29896906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5025773" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27126288" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3257066" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.4974227" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1062,7 +944,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267857" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1118,209 +999,14 @@
     <MESSAGE value="last commit" />
     <MESSAGE value="last commit translation" />
     <MESSAGE value="last commit finish with translation" />
-    <option name="LAST_COMMIT_MESSAGE" value="last commit finish with translation" />
+    <MESSAGE value="last commit finish with translation2" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit finish with translation2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/bestseller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/divido_calculator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/ebay_listing.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/featured.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/filter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/google_hangouts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/information.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/latest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/laybuy_layout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/newslettersubscribe.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/occountdown.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/ocfeatureslider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/ochozmegamenu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/oclayerednavigation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/ocquickview.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/ocslideshow.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/octabproductslider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/special.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/module/store.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/openbay/amazon_order.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/openbay/amazonus_order.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/openbay/ebay_order.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/openbay/etsy_order.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/auspost.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/citylink.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/fedex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/shipping/item.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/extension/total/coupon.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1416,7 +1102,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1424,7 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1432,7 +1116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1440,7 +1123,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1448,7 +1130,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1456,7 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="387">
           <caret line="22" column="43" lean-forward="false" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1464,7 +1144,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1472,7 +1151,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1480,7 +1158,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1488,7 +1165,388 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="13" column="80" lean-forward="false" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri3/template/extension/module/oclayerednavigation/oclayerednavigationfilter.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="138" lean-forward="false" selection-start-line="17" selection-start-column="138" selection-end-line="17" selection-end-column="152" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/default/template/extension/module/oclayerednavigation/oclayerednavigation.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="31" column="74" lean-forward="false" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/cache/placeholder-180x60.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/cache/placeholder-180x250.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/cache/placeholder-180x280.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/cache/placeholder-230x180.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/catalog/2-layers.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/catalog/8-layers.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/catalog/111.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/catalog/0706482401_2_1_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/catalog/0706482401_2_2_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/catalog/0706482401_2_4_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/catalog/0706482401_6_1_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/oclayerednavigation/oclayerednavigation.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="22" column="146" lean-forward="false" selection-start-line="22" selection-start-column="146" selection-end-line="22" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/compare.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/manufacturer_info.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/manufacturer_list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/review.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/search.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/special.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/carousel.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/newsletterpopup.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/category.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="94" column="46" lean-forward="true" selection-start-line="94" selection-start-column="46" selection-end-line="94" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/product/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="665" column="18" lean-forward="true" selection-start-line="665" selection-start-column="18" selection-end-line="665" selection-end-column="18" />
+          <folding>
+            <marker date="1501694587112" expanded="true" signature="27270:27277" ph="×" />
+            <marker date="1501694587112" expanded="true" signature="28147:28161" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="68" column="99" lean-forward="true" selection-start-line="68" selection-start-column="99" selection-end-line="68" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/javascript/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="56" column="12" lean-forward="false" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+          <folding>
+            <marker date="1501697562517" expanded="true" signature="6019:6026" ph="×" />
+            <marker date="1501697562517" expanded="true" signature="9992:9999" ph="×" />
+            <marker date="1501697562517" expanded="true" signature="10877:10884" ph="×" />
+            <marker date="1501697562517" expanded="true" signature="11791:11798" ph="×" />
+            <marker date="1501697562517" expanded="true" signature="14634:14640" ph=" " />
+            <marker date="1501697562517" expanded="true" signature="14640:14646" ph=" " />
+            <marker date="1501697562517" expanded="true" signature="14646:14652" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="1058" column="16" lean-forward="false" selection-start-line="1058" selection-start-column="16" selection-end-line="1058" selection-end-column="16" />
+          <folding>
+            <element signature="e#18#598#0" expanded="false" />
+            <element signature="e#600#681#0" expanded="false" />
+            <element signature="e#650#679#0" expanded="false" />
+            <element signature="e#683#788#0" expanded="false" />
+            <element signature="e#756#786#0" expanded="false" />
+            <element signature="e#803#1267#0" expanded="false" />
+            <element signature="e#1269#1345#0" expanded="false" />
+            <element signature="e#1314#1343#0" expanded="false" />
+            <element signature="e#1347#1446#0" expanded="false" />
+            <element signature="e#1415#1444#0" expanded="false" />
+            <element signature="e#1458#1704#0" expanded="false" />
+            <element signature="e#1714#1779#0" expanded="false" />
+            <element signature="e#1781#1962#0" expanded="false" />
+            <element signature="e#1821#1960#0" expanded="false" />
+            <element signature="e#1964#2168#0" expanded="false" />
+            <element signature="e#2027#2166#0" expanded="false" />
+            <element signature="e#2179#2237#0" expanded="false" />
+            <element signature="e#2248#2305#0" expanded="false" />
+            <element signature="e#2312#2374#0" expanded="false" />
+            <element signature="e#2394#2436#0" expanded="false" />
+            <element signature="e#2438#2520#0" expanded="false" />
+            <element signature="e#2488#2518#0" expanded="false" />
+            <element signature="e#2539#2584#0" expanded="false" />
+            <element signature="e#2586#2669#0" expanded="false" />
+            <element signature="e#2635#2667#0" expanded="false" />
+            <element signature="e#2688#2773#0" expanded="false" />
+            <element signature="e#2775#2879#0" expanded="false" />
+            <element signature="e#2847#2877#0" expanded="false" />
+            <element signature="e#2894#3197#0" expanded="false" />
+            <element signature="e#3199#3465#0" expanded="false" />
+            <element signature="e#3244#3463#0" expanded="false" />
+            <element signature="e#3467#3570#0" expanded="false" />
+            <element signature="e#3535#3568#0" expanded="false" />
+            <element signature="e#3590#3872#0" expanded="false" />
+            <element signature="e#3874#3953#0" expanded="false" />
+            <element signature="e#3924#3951#0" expanded="false" />
+            <element signature="e#3973#4099#0" expanded="false" />
+            <element signature="e#4101#4288#0" expanded="false" />
+            <element signature="e#4151#4286#0" expanded="false" />
+            <element signature="e#4290#4416#0" expanded="false" />
+            <element signature="e#4363#4414#0" expanded="false" />
+            <element signature="e#4424#4499#0" expanded="false" />
+            <element signature="e#4501#4573#0" expanded="false" />
+            <element signature="e#4539#4571#0" expanded="false" />
+            <element signature="e#4591#4710#0" expanded="false" />
+            <element signature="e#4712#4794#0" expanded="false" />
+            <element signature="e#4760#4792#0" expanded="false" />
+            <element signature="e#4796#4901#0" expanded="false" />
+            <element signature="e#4867#4899#0" expanded="false" />
+            <element signature="e#4923#5205#0" expanded="false" />
+            <element signature="e#5207#5291#0" expanded="false" />
+            <element signature="e#5259#5289#0" expanded="false" />
+            <element signature="e#5319#5421#0" expanded="false" />
+            <element signature="e#5423#5563#0" expanded="false" />
+            <element signature="e#5504#5561#0" expanded="false" />
+            <element signature="e#5597#5643#0" expanded="false" />
+            <element signature="e#5664#5701#0" expanded="false" />
+            <element signature="e#5703#5783#0" expanded="false" />
+            <element signature="e#5754#5781#0" expanded="false" />
+            <element signature="e#5808#5926#0" expanded="false" />
+            <element signature="e#5952#6088#0" expanded="false" />
+            <element signature="e#6116#6263#0" expanded="false" />
+            <element signature="e#6265#6386#0" expanded="false" />
+            <element signature="e#6323#6384#0" expanded="false" />
+            <element signature="e#6411#6468#0" expanded="false" />
+            <element signature="e#6470#6607#0" expanded="false" />
+            <element signature="e#6525#6605#0" expanded="false" />
+            <element signature="e#6609#6717#0" expanded="false" />
+            <element signature="e#6687#6715#0" expanded="false" />
+            <element signature="e#6739#7421#0" expanded="false" />
+            <element signature="e#7423#7754#0" expanded="false" />
+            <element signature="e#7475#7752#0" expanded="false" />
+            <element signature="e#7764#7836#0" expanded="false" />
+            <element signature="e#7838#7962#0" expanded="false" />
+            <element signature="e#7878#7960#0" expanded="false" />
+            <element signature="e#7974#8034#0" expanded="false" />
+            <element signature="e#8043#8105#0" expanded="false" />
+            <element signature="e#8111#8171#0" expanded="false" />
+            <element signature="e#8188#8609#0" expanded="false" />
+            <element signature="e#8611#8722#0" expanded="false" />
+            <element signature="e#8658#8719#0" expanded="false" />
+            <element signature="e#8741#8775#0" expanded="false" />
+            <element signature="e#8860#8994#0" expanded="false" />
+            <element signature="e#9010#9053#0" expanded="false" />
+            <element signature="e#9069#9114#0" expanded="false" />
+            <element signature="e#9116#9194#0" expanded="false" />
+            <element signature="e#9162#9192#0" expanded="false" />
+            <element signature="e#9204#9241#0" expanded="false" />
+            <element signature="e#9263#9332#0" expanded="false" />
+            <element signature="e#9352#9371#0" expanded="false" />
+            <element signature="e#9386#9595#0" expanded="false" />
+            <element signature="e#9616#9650#0" expanded="false" />
+            <element signature="e#9664#9735#0" expanded="false" />
+            <element signature="e#9742#9802#0" expanded="false" />
+            <element signature="e#9820#9883#0" expanded="false" />
+            <element signature="e#9897#10031#0" expanded="false" />
+            <element signature="e#10046#10177#0" expanded="false" />
+            <element signature="e#10198#10232#0" expanded="false" />
+            <element signature="e#10249#10293#0" expanded="false" />
+            <element signature="e#10318#10404#0" expanded="false" />
+            <element signature="e#10435#10469#0" expanded="false" />
+            <element signature="e#10489#10524#0" expanded="false" />
+            <element signature="e#10534#10645#0" expanded="false" />
+            <element signature="e#10665#10697#0" expanded="false" />
+            <element signature="e#10699#10729#0" expanded="false" />
+            <element signature="e#10741#10792#0" expanded="false" />
+            <element signature="e#10805#11032#0" expanded="false" />
+            <element signature="e#11056#11127#0" expanded="false" />
+            <element signature="e#11156#11227#0" expanded="false" />
+            <element signature="e#11267#11287#0" expanded="false" />
+            <element signature="e#11301#11343#0" expanded="false" />
+            <element signature="e#11360#11446#0" expanded="false" />
+            <element signature="e#11481#11506#0" expanded="false" />
+            <element signature="e#11535#11566#0" expanded="false" />
+            <element signature="e#11601#11650#0" expanded="false" />
+            <element signature="e#11672#11722#0" expanded="false" />
+            <element signature="e#11749#11781#0" expanded="false" />
+            <element signature="e#11806#11859#0" expanded="false" />
+            <element signature="e#11868#11902#0" expanded="false" />
+            <element signature="e#11925#11946#0" expanded="false" />
+            <element signature="e#11971#12039#0" expanded="false" />
+            <element signature="e#12116#12162#0" expanded="false" />
+            <element signature="e#12177#12388#0" expanded="false" />
+            <element signature="e#12413#12644#0" expanded="false" />
+            <element signature="e#12667#12877#0" expanded="false" />
+            <element signature="e#12913#12990#0" expanded="false" />
+            <element signature="e#13007#13308#0" expanded="false" />
+            <element signature="e#13331#13361#0" expanded="false" />
+            <element signature="e#13377#13398#0" expanded="false" />
+            <element signature="e#13498#13610#0" expanded="false" />
+            <element signature="e#13623#13736#0" expanded="false" />
+            <element signature="e#13751#13802#0" expanded="false" />
+            <element signature="e#13834#13886#0" expanded="false" />
+            <element signature="e#13897#13935#0" expanded="false" />
+            <element signature="e#13962#14024#0" expanded="false" />
+            <element signature="e#14035#14075#0" expanded="false" />
+            <element signature="e#14092#14206#0" expanded="false" />
+            <element signature="e#14223#14281#0" expanded="false" />
+            <element signature="e#14296#14362#0" expanded="false" />
+            <element signature="e#14384#14404#0" expanded="false" />
+            <element signature="e#14425#14518#0" expanded="false" />
+            <element signature="e#14544#14563#0" expanded="false" />
+            <element signature="e#14590#14617#0" expanded="false" />
+            <element signature="e#14743#14765#0" expanded="false" />
+            <element signature="e#14788#15026#0" expanded="false" />
+            <element signature="e#15051#15137#0" expanded="false" />
+            <element signature="e#15181#15308#0" expanded="false" />
+            <element signature="e#15358#15467#0" expanded="false" />
+            <element signature="e#15487#15509#0" expanded="false" />
+            <element signature="e#15540#15560#0" expanded="false" />
+            <element signature="e#15575#15608#0" expanded="false" />
+            <element signature="e#15618#15651#0" expanded="false" />
+            <element signature="e#15663#15684#0" expanded="false" />
+            <element signature="e#15705#15735#0" expanded="false" />
+            <element signature="e#15763#15800#0" expanded="false" />
+            <element signature="e#15818#15844#0" expanded="false" />
+            <element signature="e#15868#15924#0" expanded="false" />
+            <element signature="e#15950#15971#0" expanded="false" />
+            <element signature="e#15984#16010#0" expanded="false" />
+            <element signature="e#16028#16059#0" expanded="false" />
+            <element signature="e#16138#16164#0" expanded="false" />
+            <element signature="e#16200#16407#0" expanded="false" />
+            <element signature="e#16427#16463#0" expanded="false" />
+            <element signature="e#18740#18762#0" expanded="false" />
+            <element signature="e#18776#18803#0" expanded="false" />
+            <element signature="e#18835#18940#0" expanded="false" />
+            <element signature="e#18979#19003#0" expanded="false" />
+            <element signature="e#19056#19094#0" expanded="false" />
+            <element signature="e#19142#19159#0" expanded="false" />
+            <element signature="e#19199#19265#0" expanded="false" />
+            <element signature="e#19319#19410#0" expanded="false" />
+            <element signature="e#19444#19463#0" expanded="false" />
+            <element signature="e#19499#19652#0" expanded="false" />
+            <element signature="e#19694#19748#0" expanded="false" />
+            <element signature="e#19783#19967#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="107" column="54" lean-forward="true" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
+          <folding>
+            <marker date="1501709088580" expanded="false" signature="4443:4526" ph="..." />
+            <marker date="1501709088580" expanded="true" signature="28117:28124" ph="×" />
+            <marker date="1501709088580" expanded="true" signature="28994:29008" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

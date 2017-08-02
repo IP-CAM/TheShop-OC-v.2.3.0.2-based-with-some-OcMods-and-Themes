@@ -55,18 +55,18 @@ $(document).ready(function() {
 	});
 
  // slider  
-	$(".image-additional").owlCarousel({
-		navigation:true,
-		pagination: false,
-		slideSpeed : 1000,
-		goToFirstSpeed : 1500,
-		autoHeight : true,
-		items :4, //10 items above 1000px browser width
-		itemsDesktop : [1199,4], //5 items between 1000px and 901px
-		itemsDesktopSmall : [991,4], //4.3 betweem 900px and 601px
-		itemsTablet: [767,3], //2 items between 600 and 0
-		itemsMobile : [479,2] // itemsMobile disabled - inherit from itemsTablet option
-	});	
+	// $(".image-additional").owlCarousel({
+	// 	navigation:true,
+	// 	pagination: false,
+	// 	slideSpeed : 1000,
+	// 	goToFirstSpeed : 1500,
+	// 	autoHeight : true,
+	// 	items :4, //10 items above 1000px browser width
+	// 	itemsDesktop : [1199,4], //5 items between 1000px and 901px
+	// 	itemsDesktopSmall : [991,4], //4.3 betweem 900px and 601px
+	// 	itemsTablet: [767,3], //2 items between 600 and 0
+	// 	itemsMobile : [479,2] // itemsMobile disabled - inherit from itemsTablet option
+	// });
 	// Highlight any found errors
 	$('.text-danger').each(function() {
 		var element = $(this).parent().parent();
