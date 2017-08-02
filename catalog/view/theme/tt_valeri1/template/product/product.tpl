@@ -226,7 +226,8 @@
 
 
             <div class="product-price">
-              <span>Ціна</span>
+              <!--<span>Ціна</span>-->
+              <label class="control-label" >Ціна</label>
               <?php if (!$special) { ?>
               <h2 class="price"><?php echo $price; ?></h2>
               <?php } else { ?>
@@ -238,8 +239,8 @@
               <?php if ($minimum >= 2) { ?>
                 <div class="alert alert-info alert-minimum-qty"><i class="fa fa-info-circle"></i> <?php echo $text_minimum; ?></div>
               <?php } ?>
-              <div class="form-quantity form-quantity-product">  
-                  <!-- <label class="control-label" for="input-quantity"><?php //echo $entry_qty; ?></label> -->
+              <!--<div class="form-quantity form-quantity-product">
+                  <label class="control-label" for="input-quantity"><?php //echo $entry_qty; ?></label>
                   
                   <div class="box-input-qty">
                   <input type="text" name="quantity" value="<?php echo $minimum; ?>" size="2" id="input-quantity" class="form-control" />
@@ -248,21 +249,23 @@
                   </div>
                   
                   <input type="hidden" name="product_id" value="<?php echo $product_id; ?>" />
-              </div>
+              </div>-->
 
-              <div class="box-button button-group button-group-product actions">
+              <div id="product_buttons_bottom" class="box-button button-group button-group-product actions">
                
                 <button class="button btn-cart" id="button-cart" type="button"  title="<?php echo $button_cart; ?>">
-                  <i class="fa fa-shopping-cart"></i><span><?php echo $button_cart; ?></span> 
+                  <!--<i class="fa fa-shopping-cart"></i>-->
+                  <span><?php echo $button_cart; ?></span>
                 </button>
                 <button class="btn-wishlist" type="button"  title="<?php echo $button_wishlist; ?>" onclick="wishlist.add('<?php echo $product_id; ?>');">
-                      <i class="fa fa-heart-o"></i>
+                      <!--<i class="fa fa-heart-o"></i>-->
+                  <span><?php echo $button_wishlist; ?></span>
                 </button>
-                <button class="btn-compare" type="button" title="<?php echo $button_compare; ?>" onclick="compare.add('<?php echo $product_id; ?>');">
+                <!--<button class="btn-compare" type="button" title="<?php echo $button_compare; ?>" onclick="compare.add('<?php echo $product_id; ?>');">
                   
                       <i class="fa fa-compress"></i>
                  
-                </button>
+                </button>-->
               </div><!-- end-button -->
               <script>
 

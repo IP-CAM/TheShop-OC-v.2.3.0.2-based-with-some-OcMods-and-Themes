@@ -3,15 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6fce8ae2-9597-49a3-93a7-e8637cb3f4a7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/javascript/common.js" afterPath="$PROJECT_DIR$/catalog/view/javascript/common.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/1.html" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/oclayerednavigation/oclayerednavigation.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/oclayerednavigation/oclayerednavigation.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/oclayerednavigation/oclayerednavigationfilter.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/extension/module/oclayerednavigation/oclayerednavigationfilter.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/category.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/category.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/product/product.tpl" afterPath="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/product/product.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/storage/logs/error.log" afterPath="$PROJECT_DIR$/system/storage/logs/error.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,16 +38,46 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="product.tpl" pinned="false" current-in-tab="true">
+      <file leaf-file-name="product.tpl" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="107" column="54" lean-forward="true" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
+            <state relative-caret-position="522">
+              <caret line="267" column="28" lean-forward="false" selection-start-line="267" selection-start-column="28" selection-end-line="267" selection-end-column="28" />
               <folding>
-                <marker date="1501709088580" expanded="false" signature="4443:4526" ph="..." />
-                <marker date="1501709088580" expanded="true" signature="28117:28124" ph="×" />
-                <marker date="1501709088580" expanded="true" signature="28994:29008" ph="..." />
+                <marker date="1501711095886" expanded="false" signature="4443:4526" ph="..." />
+                <marker date="1501711095886" expanded="true" signature="28307:28314" ph="×" />
+                <marker date="1501711095886" expanded="true" signature="29184:29198" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="en-gb.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/en-gb.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/product/product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compare.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/product/compare.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="1058" column="16" lean-forward="false" selection-start-line="1058" selection-start-column="16" selection-end-line="1058" selection-end-column="16" />
+            <state relative-caret-position="553">
+              <caret line="1158" column="22" lean-forward="false" selection-start-line="1158" selection-start-column="22" selection-end-line="1158" selection-end-column="22" />
               <folding>
                 <element signature="e#18#598#0" expanded="false" />
                 <element signature="e#600#681#0" expanded="false" />
@@ -256,18 +279,18 @@
                 <element signature="e#16138#16164#0" expanded="false" />
                 <element signature="e#16200#16407#0" expanded="false" />
                 <element signature="e#16427#16463#0" expanded="false" />
-                <element signature="e#18740#18762#0" expanded="false" />
-                <element signature="e#18776#18803#0" expanded="false" />
-                <element signature="e#18835#18940#0" expanded="false" />
-                <element signature="e#18979#19003#0" expanded="false" />
-                <element signature="e#19056#19094#0" expanded="false" />
-                <element signature="e#19142#19159#0" expanded="false" />
-                <element signature="e#19199#19265#0" expanded="false" />
-                <element signature="e#19319#19410#0" expanded="false" />
-                <element signature="e#19444#19463#0" expanded="false" />
-                <element signature="e#19499#19652#0" expanded="false" />
-                <element signature="e#19694#19748#0" expanded="false" />
-                <element signature="e#19783#19967#0" expanded="false" />
+                <element signature="e#19233#19255#0" expanded="false" />
+                <element signature="e#19269#19296#0" expanded="false" />
+                <element signature="e#19328#19433#0" expanded="false" />
+                <element signature="e#19472#19496#0" expanded="false" />
+                <element signature="e#19549#19587#0" expanded="false" />
+                <element signature="e#19635#19652#0" expanded="false" />
+                <element signature="e#19692#19758#0" expanded="false" />
+                <element signature="e#19812#19903#0" expanded="false" />
+                <element signature="e#19937#19956#0" expanded="false" />
+                <element signature="e#19992#20145#0" expanded="false" />
+                <element signature="e#20187#20241#0" expanded="false" />
+                <element signature="e#20276#20460#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -420,8 +443,8 @@
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/common/header.tpl" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri2/template/product/product.tpl" />
         <option value="$PROJECT_DIR$/catalog/view/javascript/common.js" />
-        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" />
         <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl" />
+        <option value="$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css" />
       </list>
     </option>
   </component>
@@ -745,6 +768,80 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en-gb" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en-gb" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tool" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theshop.com" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="language" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en-gb" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -861,7 +958,7 @@
       <workItem from="1501342044009" duration="31507000" />
       <workItem from="1501592022629" duration="7409000" />
       <workItem from="1501666330681" duration="4876000" />
-      <workItem from="1501685453605" duration="18073000" />
+      <workItem from="1501685453605" duration="20512000" />
     </task>
     <task id="LOCAL-00001" summary="footer+header under develop">
       <created>1500759793559</created>
@@ -919,11 +1016,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501592055584</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="radio">
+      <created>1501709111783</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1501709111783</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140879000" />
+    <option name="totallyTimeSpent" value="143318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1612" height="867" extended-state="0" />
@@ -1000,7 +1104,8 @@
     <MESSAGE value="last commit translation" />
     <MESSAGE value="last commit finish with translation" />
     <MESSAGE value="last commit finish with translation2" />
-    <option name="LAST_COMMIT_MESSAGE" value="last commit finish with translation2" />
+    <MESSAGE value="radio" />
+    <option name="LAST_COMMIT_MESSAGE" value="radio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1105,24 +1210,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/product/compare.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/product/manufacturer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/product/product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -1151,13 +1242,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/en-gb.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1354,10 +1438,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/product/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="34" lean-forward="false" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/product/compare.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/language/en-gb/en-gb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="267" column="28" lean-forward="false" selection-start-line="267" selection-start-column="28" selection-end-line="267" selection-end-column="28" />
+          <folding>
+            <marker date="1501711095886" expanded="false" signature="4443:4526" ph="..." />
+            <marker date="1501711095886" expanded="true" signature="28307:28314" ph="×" />
+            <marker date="1501711095886" expanded="true" signature="29184:29198" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/stylesheet/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="1058" column="16" lean-forward="false" selection-start-line="1058" selection-start-column="16" selection-end-line="1058" selection-end-column="16" />
+        <state relative-caret-position="553">
+          <caret line="1158" column="22" lean-forward="false" selection-start-line="1158" selection-start-column="22" selection-end-line="1158" selection-end-column="22" />
           <folding>
             <element signature="e#18#598#0" expanded="false" />
             <element signature="e#600#681#0" expanded="false" />
@@ -1522,30 +1642,18 @@
             <element signature="e#16138#16164#0" expanded="false" />
             <element signature="e#16200#16407#0" expanded="false" />
             <element signature="e#16427#16463#0" expanded="false" />
-            <element signature="e#18740#18762#0" expanded="false" />
-            <element signature="e#18776#18803#0" expanded="false" />
-            <element signature="e#18835#18940#0" expanded="false" />
-            <element signature="e#18979#19003#0" expanded="false" />
-            <element signature="e#19056#19094#0" expanded="false" />
-            <element signature="e#19142#19159#0" expanded="false" />
-            <element signature="e#19199#19265#0" expanded="false" />
-            <element signature="e#19319#19410#0" expanded="false" />
-            <element signature="e#19444#19463#0" expanded="false" />
-            <element signature="e#19499#19652#0" expanded="false" />
-            <element signature="e#19694#19748#0" expanded="false" />
-            <element signature="e#19783#19967#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/view/theme/tt_valeri1/template/product/product.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="107" column="54" lean-forward="true" selection-start-line="107" selection-start-column="54" selection-end-line="107" selection-end-column="54" />
-          <folding>
-            <marker date="1501709088580" expanded="false" signature="4443:4526" ph="..." />
-            <marker date="1501709088580" expanded="true" signature="28117:28124" ph="×" />
-            <marker date="1501709088580" expanded="true" signature="28994:29008" ph="..." />
+            <element signature="e#19233#19255#0" expanded="false" />
+            <element signature="e#19269#19296#0" expanded="false" />
+            <element signature="e#19328#19433#0" expanded="false" />
+            <element signature="e#19472#19496#0" expanded="false" />
+            <element signature="e#19549#19587#0" expanded="false" />
+            <element signature="e#19635#19652#0" expanded="false" />
+            <element signature="e#19692#19758#0" expanded="false" />
+            <element signature="e#19812#19903#0" expanded="false" />
+            <element signature="e#19937#19956#0" expanded="false" />
+            <element signature="e#19992#20145#0" expanded="false" />
+            <element signature="e#20187#20241#0" expanded="false" />
+            <element signature="e#20276#20460#0" expanded="false" />
           </folding>
         </state>
       </provider>
