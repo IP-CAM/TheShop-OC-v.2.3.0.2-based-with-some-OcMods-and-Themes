@@ -76,7 +76,7 @@
         <div class="container">
             <div class="container-ink">
                 <div class="row row_header">
-                    <div class="col-sm-6 col-xs-12 row_header">
+                    <div class="col-sm-6 col-xs-2 row_header">
                         <div class="dropdown top-account">
                             <a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>"
                                class="dropdown-toggle" data-toggle="dropdown"><span
@@ -96,7 +96,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-6 col-xs-12 col-sm-6">
+                    <div class="col-md-6 col-xs-10 col-sm-6">
                         <div class="header-panel-right">
 
                             <div id="header-wish" class="header-wish header_section">
@@ -107,8 +107,8 @@
                             </div>
                             <div class="top-cart-content header_section"><?php echo $cart; ?></div>
                             <div class="top-search-content header_section"><?php echo $search; ?></div>
-                            <!--  <?php echo $currency; ?>
-                            <?php echo $language; ?> -->
+                            <!--<?php echo $currency; ?>-->
+                            <!--   <?php echo $language; ?> -->
                             <!-- <div class="dropdown top-account">
                                <a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><span class=""><?php echo $text_account; ?></span><i class="fa fa-angle-down "></i></a>
                                <ul class="dropdown-menu dropdown-menu-right">

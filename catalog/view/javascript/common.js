@@ -49,9 +49,9 @@ $(document).ready(function() {
 		scrollPerPage:false,
 		items : 4,
 		itemsDesktop : [1199,3],
-		itemsDesktopSmall : [991,2],
-		itemsTablet: [768,2],
-		itemsMobile : [400,1],
+		itemsDesktopSmall : [991,3],
+		itemsTablet: [768,3],
+		itemsMobile : [400,2],
 	});
 
  // slider  
