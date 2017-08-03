@@ -157,10 +157,12 @@ $(document).ready(function() {
     paginationNumbers : true,
     pagination : <?php if($config_slide['f_show_ctr']) { echo 'true' ;} else { echo 'false';} ?>,
     stopOnHover : false,
-    itemsDesktop : [1199,3],
-    itemsDesktopSmall : [991,2],
-    itemsTablet: [768,2],
-    itemsMobile : [479,1]
+    infinity:true,
+    itemsDesktop : [1199,4],
+    itemsDesktopSmall : [991,3],
+    itemsTablet: [768,3],
+    itemsMobile : [479,2],
+
   });
 });
 </script>
