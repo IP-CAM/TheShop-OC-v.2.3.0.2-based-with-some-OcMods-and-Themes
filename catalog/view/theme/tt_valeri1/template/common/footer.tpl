@@ -1,6 +1,3 @@
-
-
-
 <!--<footer>
   <div class="footer-top">
   <div class="container">
@@ -66,94 +63,106 @@ Please donate via PayPal to donate@opencart.com
 
 
 <footer><!--include some modules into the header-->
+
     <div class="footer_container">
-        <div class="footer-head">
-            <div class="f-inocns">
-                <div class="f-icon confirm"></div>
-                <div class="footer-icon-text"><p class="footer-top-text">Lorem ipsum Dolor</p>
-                    <p class="footer-bot-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
-            </div>
-            <div class="f-inocns">
-                <div class="f-icon deliver"></div>
-                <div class="footer-icon-text"><p class="footer-top-text">Lorem ipsum Dolor</p>
-                    <p class="footer-bot-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
-            </div>
-            <div class="f-inocns">
-                <div class="f-icon mon"></div>
-                <div class="footer-icon-text"><p class="footer-top-text">Lorem ipsum Dolor</p>
-                    <p class="footer-bot-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+        <div class="footer-head-container">
+            <div class="footer-head">
+                <div class="f-icons">
+                    <div class="f-icon confirm"></div>
+                    <div class="footer-icon-text"><p class="footer-top-text">Lorem ipsum Dolor</p>
+                        <p class="footer-bot-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+                </div>
+                <div class="f-icons">
+                    <div class="f-icon deliver"></div>
+                    <div class="footer-icon-text"><p class="footer-top-text">Lorem ipsum Dolor</p>
+                        <p class="footer-bot-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+                </div>
+                <div class="f-icons">
+                    <div class="f-icon mon"></div>
+                    <div class="footer-icon-text"><p class="footer-top-text">Lorem ipsum Dolor</p>
+                        <p class="footer-bot-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p></div>
+                </div>
             </div>
         </div>
-        <div class="footer-main">
-            <div class="footer-main-left">
-                <div class="footer-main-logo"></div>
-                <div class="footer-main-au"><h3 class="head au">about us</h3>
-                    <p class="footer-au-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                        occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-                        laborum</p></div>
+        <div class="footer-main-container">
+            <div class="footer-main">
+                <div class="footer-main-left">
+                    <div class="footer-main-logo"></div>
+                    <div class="footer-main-au"><h3 class="head au">about us</h3>
+                        <p class="footer-au-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+                            anim id est laborum</p></div>
+                </div>
+                <div class="footer-main-center"><h3 class="head footer-main-center-head">service</h3>
+                    <a href=""class="footer-main-center-links">main</a>
+                    <a href="" class="footer-main-center-links">men</a>
+                    <a href="http://theshop.com/index.php?route=product/category&path=93"  class="footer-main-center-links">woomen</a>
+                    <a href="http://theshop.com/index.php?route=product/category&path=101" class="footer-main-center-links">kids</a>
+                    <a href="http://theshop.com/index.php?route=product/category&path=118" class="footer-main-center-links">accessories</a>
+                    <a href="" class="footer-main-center-links">shoes</a>
+                    <a href="" class="footer-main-center-links">sale</a>
+                </div>
+                <div class="footer-main-right">
+                    <div class="footer-newsletter">
+                        <h3 class="head footer-newsletter footer-newsletter-h3 ">newsletter</h3>
+                        <p class="footer-newsletter-tex">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                            nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+                            irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+                            anim id est laborum</p><input type="text" class="footer-newsletter-form"><input
+                                type="button" value="subscribe" class="footer-newsletter-button">
+                        <h3 class="footer-contacts-head">contacts</h3>
+                        <p class="footer-contacts-phone">+380912345678
+                            somemail@some.com</p></div>
+                </div>
+                <div class="footer-main-social"><a href="" class="social facebook"></a><a href=""
+                                                                                          class="social insta"></a><a
+                            href="" class="social vk"></a></div>
             </div>
-            <div class="footer-main-center"><h3 class="head footer-main-center-head">service</h3><a href=""
-                                                                                                    class="footer-main-center-links">main</a><a
-                        href="" class="footer-main-center-links">men</a><a href=""
-                                                                           class="footer-main-center-links">woomen</a><a
-                        href="" class="footer-main-center-links">kids</a><a href="" class="footer-main-center-links">accessories</a><a
-                        href="" class="footer-main-center-links">shoes</a><a href=""
-                                                                             class="footer-main-center-links">sale</a></div>
-            <div class="footer-main-right">
-                <div class="footer-newsletter"><h3 class="head footer-newsletter">newsletter</h3>
-                    <p class="footer-newsletter-tex">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-                        sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-                        laborum</p><input type="text" class="footer-newsletter-form"><input type="button"
-                                                                                            value="subscribe"
-                                                                                            class="footer-newsletter-button">
-                    <p class="footer-contacts-phone">+38 091 234 56 78</p>
-                    <p class="footer-contacts-phone mail">somemail@some.com</p></div>
-            </div>
-            <div class="footer-main-social"><a href="" class="social facebook"></a><a href=""
-                                                                                      class="social insta"></a><a
-                        href="" class="social vk"></a></div>
         </div>
-        <div class="footer-bottom"><p class="copyrights">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                sed</p></div>
+        <div class="footer-bottom-container">
+            <div class="footer-bottom"><h3 class="copyrights">Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                    sed</h3></div>
+        </div>
     </div>
+
+
 </footer>
 <!-- Theme created by Welford Media for OpenCart 2.0 www.welfordmedia.co.uk -->
 <div id="back-top" class="hidden-xs"></div>
 <script type="text/javascript">
-    $(document).ready(function(){
-     // hide #back-top first
-     $("#back-top").hide();
-     // fade in #back-top
-     $(function () {
-      $(window).scroll(function () {
-       if ($(this).scrollTop() > 300) {
-        $('#back-top').fadeIn();
-         $('#back-top').addClass("show");
-       } else {
-        $('#back-top').fadeOut();
-        $('#back-top').removeClass("show");
-       }
-      });
-      // scroll body to 0px on click
-      $('#back-top').click(function () {
-       $('body,html').animate({
-        scrollTop: 0
-       }, 800);
-       return false;
-      });
-     });
+    $(document).ready(function () {
+        // hide #back-top first
+        $("#back-top").hide();
+        // fade in #back-top
+        $(function () {
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 300) {
+                    $('#back-top').fadeIn();
+                    $('#back-top').addClass("show");
+                } else {
+                    $('#back-top').fadeOut();
+                    $('#back-top').removeClass("show");
+                }
+            });
+            // scroll body to 0px on click
+            $('#back-top').click(function () {
+                $('body,html').animate({
+                    scrollTop: 0
+                }, 800);
+                return false;
+            });
+        });
     });
 </script>
 </body></html>
