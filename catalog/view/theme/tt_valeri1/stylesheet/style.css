@@ -1,6 +1,12 @@
 footer {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
     display: flex;
     width: 100%;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
     justify-content: center;
     font-family: "Open Sans", sans-serif;
 }
@@ -37,10 +43,8 @@ footer {
 /*@media (min-width: 780px) and (max-width: 1023px) {*/
 /*.footer_container {*/
 /*height: 350px; } }*/
-
 .footer-head {
     width: 831px;
-
     height: 78px;
     background: #404040;
     display: -webkit-box;
@@ -64,7 +68,6 @@ footer {
         -webkit-justify-content: center;
         -ms-flex-pack: center;
         justify-content: center;
-
     }
 }
 
@@ -93,6 +96,9 @@ footer {
     }
 
     .f-icons:nth-of-type(1) {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
         display: flex;
         width: 300px;
         margin-left: 16px;
@@ -113,7 +119,6 @@ footer {
         background-position: center;
         background-size: cover;
     }
-
 }
 
 @media (min-width: 780px) and (max-width: 1023px) {
@@ -150,7 +155,7 @@ footer {
 
 @media (max-width: 779px) {
     .footer-icon-text {
-        width: 250px
+        width: 250px;
     }
 }
 
@@ -191,7 +196,6 @@ footer {
 
 .footer-main {
     max-width: 831px;
-
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -200,7 +204,6 @@ footer {
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
-
     padding-left: 20px;
     padding-top: 60px;
     margin-bottom: 44px;
@@ -215,7 +218,6 @@ footer {
         -ms-flex-direction: column;
         flex-direction: column;
         padding-top: 10px;
-
     }
 }
 
@@ -246,7 +248,6 @@ footer {
         -webkit-align-items: center;
         -ms-flex-align: center;
         align-items: center;
-
     }
 }
 
@@ -265,7 +266,6 @@ footer {
         border: 1px solid #8560a8;
         background-size: cover;
         margin-top: 30px;
-
     }
 }
 
@@ -323,7 +323,6 @@ footer {
 .footer-main-center {
     width: 30%;
     color: #e2e2e2;
-
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -346,7 +345,6 @@ footer {
 
 .footer-main-center-head {
     margin-top: 7px;
-
     margin-bottom: 20px;
 }
 
@@ -385,7 +383,6 @@ footer {
 
 .footer-newsletter {
     margin-top: 4px;
-
 }
 
 @media (max-width: 779px) {
@@ -408,7 +405,6 @@ footer {
         -webkit-align-items: center;
         -ms-flex-align: center;
         align-items: center;
-
     }
 
     .footer-newsletter-h3 {
@@ -418,7 +414,6 @@ footer {
         line-height: 18px;
         text-transform: uppercase;
     }
-
 }
 
 .footer-newsletter-tex {
@@ -432,12 +427,11 @@ footer {
 }
 
 @media (max-width: 779px) {
-
     .footer-newsletter-tex {
         width: 230px;
         height: 35px;
         color: #ffffff;
-        font-family: "Open Sans",sans-serif;
+        font-family: "Open Sans", sans-serif;
         text-align: center;
         font-size: 12px;
         font-weight: 300;
@@ -453,12 +447,14 @@ footer {
     padding-left: 10px;
     border: 1px solid #404040;
 }
+
 @media (max-width: 779px) {
-    .footer-newsletter-form{
+    .footer-newsletter-form {
         width: 247px;
         height: 29px;
     }
 }
+
 .footer-newsletter-button {
     width: 103px;
     height: 29px;
@@ -487,11 +483,13 @@ footer {
     text-transform: uppercase;
     margin-bottom: 12px;
 }
+
 @media (max-width: 779px) {
-    .footer-contacts-head{
-        font-size:15px;
+    .footer-contacts-head {
+        font-size: 15px;
     }
 }
+
 .footer-contacts-phone {
     width: 110px;
     height: 30px;
@@ -500,7 +498,6 @@ footer {
     font-weight: 300;
     line-height: 18px;
 }
-
 
 @media (max-width: 779px) {
     .footer-contacts-phone {
@@ -523,7 +520,6 @@ footer {
     margin-top: 22px;
     width: 30px;
     height: 200px;
-
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -549,7 +545,6 @@ footer {
 @media (max-width: 779px) {
     .footer-main-social {
         position: relative;
-
         width: 100%;
         -webkit-box-orient: horizontal;
         -webkit-box-direction: normal;
@@ -652,6 +647,7 @@ footer {
     justify-content: center;
     background: #404040;
 }
+
 
 /**HEADER****************************************************/
 .header-panel-right {
